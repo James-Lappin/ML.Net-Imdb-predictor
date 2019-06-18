@@ -6,15 +6,14 @@ namespace Predictor_Console
     {
         static void Main(string[] args)
         {
-            var finished = false;
-
-            while(!finished)
+            while(true)
             {
+                Console.WriteLine("Enter a movie name or 'F' to finish.");
                 var lineEntry = Console.ReadLine();
 
                 if(lineEntry == "F" || lineEntry == "f")
                 {
-                    finished = true;
+                    break;
                 }
             }
 
