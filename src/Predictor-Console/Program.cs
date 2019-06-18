@@ -6,7 +6,19 @@ namespace Predictor_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var finished = false;
+
+            while(!finished)
+            {
+                var lineEntry = Console.ReadLine();
+
+                if(lineEntry == "F" || lineEntry == "f")
+                {
+                    finished = true;
+                }
+            }
+
+            Console.WriteLine("Finished.");
         }
     }
 }
