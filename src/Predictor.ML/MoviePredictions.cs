@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Text;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
@@ -47,7 +45,7 @@ namespace Predictor.ML
             Console.WriteLine("The model evaluation metrics RootMeanSquaredError:" + metrics.RootMeanSquaredError);
 
             //STEP 7:  Try/test a single prediction by predicting a single movie rating for a specific user
-            var predictionengine = mlcontext.Model.CreatePredictionEngine<MovieRating, MovieRatingPrediction>(model);
+            // var predictionengine = mlcontext.Model.CreatePredictionEngine<MovieRating, MovieRatingPrediction>(model);
             /* Make a single movie rating prediction, the scores are for a particular user and will range from 1 - 5. 
                The higher the score the higher the likelyhood of a user liking a particular movie.
                You can recommend a movie to a user if say rating > 3.5.*/
