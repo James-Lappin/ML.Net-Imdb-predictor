@@ -41,28 +41,28 @@ namespace Predictor.ML
             Console.WriteLine("=============== Evaluating the model ===============");
             IDataView testDataView = mlcontext.Data.LoadFromTextFile<MovieRating>(TestDataLocation, hasHeader: true, separatorChar: ',');
             var prediction = model.Transform(testDataView);
-            var metrics = mlcontext.Regression.Evaluate(prediction, labelColumnName: "Label", scoreColumnName: "Score");
+            var metrics = mlcontext.Regression.Evaluate(prediction, labelColumnName: "imdb_score", scoreColumnName: "Score");
             Console.WriteLine("The model evaluation metrics RootMeanSquaredError:" + metrics.RootMeanSquaredError);
 
             //STEP 7:  Try/test a single prediction by predicting a single movie rating for a specific user
-            // var predictionengine = mlcontext.Model.CreatePredictionEngine<MovieRating, MovieRatingPrediction>(model);
+            var predictionengine = mlcontext.Model.CreatePredictionEngine<MovieRating, MovieRatingPrediction>(model);
             /* Make a single movie rating prediction, the scores are for a particular user and will range from 1 - 5. 
                The higher the score the higher the likelyhood of a user liking a particular movie.
                You can recommend a movie to a user if say rating > 3.5.*/
-           // var movieratingprediction = predictionengine.Predict(
-           //     new MovieRating()
-           //     {
-           //         //Example rating prediction for userId = 6, movieId = 10 (GoldenEye)
-           //         userId = predictionuserId,
-           //         movieId = predictionmovieId
-           //     }
-           // );
-           //
-           // Movie movieService = new Movie();
-           // Console.WriteLine("For userId:" + predictionuserId + " movie rating prediction (1 - 5 stars) for movie:" + movieService.Get(predictionmovieId).movieTitle + " is:" + Math.Round(movieratingprediction.Score, 1));
-           //
-           // Console.WriteLine("=============== End of process, hit any key to finish ===============");
-           // Console.ReadLine();
+           var movieratingprediction = predictionengine.Predict(
+               new MovieRating()
+               {
+                   //Example rating prediction for userId = 6, movieId = 10 (GoldenEye)
+                   director_name = "Kevin Smith",
+                   actor_1_name = "Jason Mewes"
+               }
+           );
+           
+           //Movie movieService = new Movie();
+           Console.WriteLine("For userId:" + 6 + " movie rating prediction (1 - 5 stars) for movie:" + "clerks" + " is:" + Math.Round(movieratingprediction.Score, 1));
+           
+           Console.WriteLine("=============== End of process, hit any key to finish ===============");
+           Console.ReadLine();
         }
 
         public string TrainingDataLocation
@@ -72,7 +72,7 @@ namespace Predictor.ML
 
         public string TestDataLocation
         {
-            get => Path.Combine(AppDomain.CurrentDomain.BaseDirectory + "test-data.csv");
+            get => Path.Combine(AppDomain.CurrentDomain.BaseDirectory + "testing-data.csv");
         }
     }
     
@@ -106,7 +106,7 @@ namespace Predictor.ML
 
     class MovieRatingPrediction
     {
-        public float Label;
+        public float imdb_score;
 
         public float Score;
     }
