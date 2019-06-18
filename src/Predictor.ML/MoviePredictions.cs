@@ -26,7 +26,7 @@ namespace Predictor.ML
             MatrixFactorizationTrainer.Options options = new MatrixFactorizationTrainer.Options();
             options.MatrixColumnIndexColumnName = "actor1NameEncoded";
             options.MatrixRowIndexColumnName = "directorNameEncoded";
-            options.LabelColumnName = "imdb_score";
+            options.LabelColumnName = "movie_facebook_likes";
             options.NumberOfIterations = 20;
             options.ApproximationRank = 100;
 
@@ -41,7 +41,7 @@ namespace Predictor.ML
             Console.WriteLine("=============== Evaluating the model ===============");
             IDataView testDataView = mlcontext.Data.LoadFromTextFile<MovieRating>(TestDataLocation, hasHeader: true, separatorChar: ',');
             var prediction = model.Transform(testDataView);
-            var metrics = mlcontext.Regression.Evaluate(prediction, labelColumnName: "imdb_score", scoreColumnName: "Score");
+            var metrics = mlcontext.Regression.Evaluate(prediction, labelColumnName: "movie_facebook_likes", scoreColumnName: "Score");
             Console.WriteLine("The model evaluation metrics RootMeanSquaredError:" + metrics.RootMeanSquaredError);
 
             //STEP 7:  Try/test a single prediction by predicting a single movie rating for a specific user
@@ -101,12 +101,12 @@ namespace Predictor.ML
         public float imdb_score;
 
         [LoadColumn(26)]
-        public string movie_facebook_likes;
+        public float movie_facebook_likes;
     }
 
     class MovieRatingPrediction
     {
-        public float imdb_score;
+        public float movie_facebook_likes;
 
         public float Score;
     }
