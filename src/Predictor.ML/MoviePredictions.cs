@@ -6,7 +6,7 @@ using Microsoft.ML.Trainers;
 
 namespace Predictor.ML
 {
-    class MoviePredictions
+    public class MoviePredictions
     {
         public void BuildModel()
         {
@@ -19,14 +19,14 @@ namespace Predictor.ML
 
             //STEP 3: Transform your data by encoding the two features userId and movieID. These encoded features will be provided as input
             //        to our MatrixFactorizationTrainer.
-            var dataProcessingPipeline = mlcontext.Transforms.Conversion.MapValueToKey(outputColumnName: "userIdEncoded", inputColumnName: nameof(MovieRating.userId))
-                           .Append(mlcontext.Transforms.Conversion.MapValueToKey(outputColumnName: "movieIdEncoded", inputColumnName: nameof(MovieRating.movieId)));
+            var dataProcessingPipeline = mlcontext.Transforms.Conversion.MapValueToKey(outputColumnName: "actor1NameEncoded", inputColumnName: nameof(MovieRating.actor_1_name))
+                           .Append(mlcontext.Transforms.Conversion.MapValueToKey(outputColumnName: "directorNameEncoded", inputColumnName: nameof(MovieRating.director_name)));
 
             //Specify the options for MatrixFactorization trainer            
             MatrixFactorizationTrainer.Options options = new MatrixFactorizationTrainer.Options();
-            options.MatrixColumnIndexColumnName = "userIdEncoded";
-            options.MatrixRowIndexColumnName = "movieIdEncoded";
-            options.LabelColumnName = "Label";
+            options.MatrixColumnIndexColumnName = "actor1NameEncoded";
+            options.MatrixRowIndexColumnName = "directorNameEncoded";
+            options.LabelColumnName = "imdb_score";
             options.NumberOfIterations = 20;
             options.ApproximationRank = 100;
 
@@ -75,17 +75,33 @@ namespace Predictor.ML
             get => Path.Combine(AppDomain.CurrentDomain.BaseDirectory + "test-data.csv");
         }
     }
+    
 
     public class MovieRating
     {
-        [LoadColumn(0)]
-        public float userId;
-
         [LoadColumn(1)]
-        public float movieId;
+        public string director_name;
 
-        [LoadColumn(2)]
-        public float Label;
+        [LoadColumn(12)]
+        public string num_voted_users;
+
+        [LoadColumn(9)]
+        public string genres;
+
+        [LoadColumn(10)]
+        public string actor_1_name;
+
+        [LoadColumn(6)]
+        public string actor_2_name;
+
+        [LoadColumn(14)]
+        public string actor_3_name;
+
+        [LoadColumn(24)]
+        public float imdb_score;
+
+        [LoadColumn(26)]
+        public string movie_facebook_likes;
     }
 
     class MovieRatingPrediction

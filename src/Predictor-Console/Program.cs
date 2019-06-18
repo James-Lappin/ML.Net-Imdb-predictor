@@ -1,4 +1,5 @@
 ﻿using System;
+using Predictor.ML;
 
 namespace Predictor_Console
 {
@@ -6,7 +7,9 @@ namespace Predictor_Console
     {
         static void Main(string[] args)
         {
-            while(true)
+            new MoviePredictions().BuildModel();
+
+            while (true)
             {
                 Console.WriteLine("Enter a movie name or 'F' to finish.");
                 var lineEntry = Console.ReadLine();

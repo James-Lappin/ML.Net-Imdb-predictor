@@ -6,4 +6,8 @@
     <RootNamespace>Predictor_Console</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Predictor.ML\Predictor.ML.csproj" />
+  </ItemGroup>
+
 </Project>
