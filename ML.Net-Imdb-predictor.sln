@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{51289535-681F-443B-8598-66E3C718A5B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predictor.ML", "src\Predictor.ML\Predictor.ML.csproj", "{DC641167-06CC-4541-8E1C-3BC237238044}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predictor-Console", "src\Predictor-Console\Predictor-Console.csproj", "{3EF6853E-5347-4E9F-A3A9-78C135F4D0BB}"
 EndProject
 Global
