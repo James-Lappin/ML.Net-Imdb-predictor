@@ -1,78 +1,1045 @@
-color,director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,gross,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,plot_keywords,movie_imdb_link,num_user_for_reviews,language,country,content_rating,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
-Color,Dan Reed,61,80,3,140,Adam Rayner,798,,Thriller,Danny Dyer,Closure ,5747,1401,Ralph Brown,1,countryside|night|party|rape|scar,http://www.imdb.com/title/tt0480011/?ref_=fn_tt_tt_1,44,English,UK,R,1800000,2007,279,5.6,1.85,246
- Black and White,John Reinhardt,1,68,2,75,John Ireland,142,,Crime|Drama,Sheldon Leonard,Open Secret ,67,354,Arthur O'Connell,3,anti semitism|gangster,http://www.imdb.com/title/tt0040671/?ref_=fn_tt_tt_1,9,English,USA,Approved,,1948,86,7.1,1.37,10
-Color,Patrick Ryan Sims,5,81,0,10,Hugh Mun,416,,Action|Drama|Sci-Fi|Thriller,Claire Gordon-Harper,Echo Dr. ,101,459,Johnathan Hurley,2,android|artificial intelligence|home invasion|security system|tech noir,http://www.imdb.com/title/tt2343473/?ref_=fn_tt_tt_1,1,English,USA,,100000,2013,18,3.6,1.78,17
-Color,Laslo Benedek,14,106,6,13,Trevor Howard,440,,Crime|Horror|Thriller,Liv Ullmann,The Night Visitor ,544,564,Andrew Keir,1,escape|independent film|mental illness|prison|revenge,http://www.imdb.com/title/tt0066141/?ref_=fn_tt_tt_1,19,English,USA,GP,,1971,98,6.8,,65
-Color,Jason Miller,5,77,0,0,Dottie Alexander,45,,Biography|Documentary|Music,Jon Brion,The Past is a Grotesque Animal ,80,45,David Barnes,0,artist|band|male rear nudity|sexuality|stage,http://www.imdb.com/title/tt3072636/?ref_=fn_tt_tt_1,1,English,USA,Unrated,100000,2014,0,7.6,1.78,82
-Color,Dennis Iliadis,241,114,29,616,Monica Potter,956,32721635,Crime|Horror|Thriller,Tony Goldwyn,The Last House on the Left ,67824,3861,Martha MacIsaac,0,kidnapping|lake|microwave oven|psychopath|woods,http://www.imdb.com/title/tt0844708/?ref_=fn_tt_tt_1,279,English,USA,R,15000000,2009,878,6.6,1.85,0
-Color,Sut Jhally,16,80,3,0,Seth Ackerman,103,,Documentary,Noam Chomsky,"Peace, Propaganda & the Promised Land ",496,103,Arik Ascherman,3,arab israeli conflict|israel|media|middle east|palestine,http://www.imdb.com/title/tt0428959/?ref_=fn_tt_tt_1,13,English,USA,,70000,2004,0,8.3,,110
- Black and White,Darren Aronofsky,138,84,0,194,Clint Mansell,1000,3216970,Drama|Mystery|Thriller,Mark Margolis,Pi ,142619,2065,Stanley B. Herman,0,mathematician|nature|numbers|pattern|using a metal detector on a beach,http://www.imdb.com/title/tt0138704/?ref_=fn_tt_tt_1,586,English,USA,R,60000,1998,512,7.5,1.66,24000
-Color,Julie Davis,5,86,12,117,Meredith Scott Lynn,238,33598,Comedy|Romance,Jack McGee,"I Love You, Don't Touch Me! ",405,623,Tim DeZarn,1,female frontal nudity|female rear nudity|title directed by female|virgin|written and directed by cast member,http://www.imdb.com/title/tt0130019/?ref_=fn_tt_tt_1,15,English,USA,R,,1997,166,5.4,,97
-Color,Myles Berkowitz,32,87,0,153,Tom Ardavany,1000,536767,Biography|Comedy|Romance,Tia Carrere,20 Dates ,1622,1362,Robert McKee,0,fake documentary|hidden camera|mockumentary|narrative|reality show,http://www.imdb.com/title/tt0138987/?ref_=fn_tt_tt_1,83,English,USA,R,60000,1998,184,5.3,1.85,30
-Color,Brett Piper,18,80,7,3,Steve Diasparra,118,,Action|Sci-Fi|Thriller,Michelle Simone Miller,Queen Crab ,48,138,A.J. DeLucia,0,,http://www.imdb.com/title/tt2319456/?ref_=fn_tt_tt_1,18,English,USA,,75000,2015,15,4.5,,34
-Color,Morgan Spurlock,193,100,293,0,Amanda Kearsan,0,11529368,Comedy|Documentary|Drama,Chemeeka Walker,Super Size Me ,85028,0,Amelia Giancarlo,2,experiment|fast food|food industry|meal|overeating,http://www.imdb.com/title/tt0390521/?ref_=fn_tt_tt_1,404,English,USA,PG,65000,2004,0,7.3,1.78,0
-Color,Brandon Trost,66,82,32,128,Sean Whalen,968,40557,Comedy,Clifton Collins Jr.,The FP ,1389,2046,James DeBello,0,abbreviation in title|based on short film|competition dancing|dystopia|location in title,http://www.imdb.com/title/tt1296373/?ref_=fn_tt_tt_1,22,English,USA,R,60000,2011,407,5.6,2.35,0
-Color,Joe Swanberg,65,82,217,442,Lena Dunham,10000,30084,Comedy|Drama,Anna Kendrick,Happy Christmas ,5507,11642,Mark Webber,3,chicago illinois|drink|drinking|filmmaker|writer,http://www.imdb.com/title/tt2955096/?ref_=fn_tt_tt_1,23,English,USA,R,70000,2014,969,5.6,1.85,812
- Black and White,Joseph Green,95,70,2,6,Jason Evers,24,,Horror|Sci-Fi,Virginia Leith,The Brain That Wouldn't Die ,4752,52,Bruce Kerr,1,brain|fiance|laboratory|surgeon|surgery,http://www.imdb.com/title/tt0052646/?ref_=fn_tt_tt_1,152,English,USA,Approved,62000,1962,16,4.1,1.66,1000
-Color,Wade Gasque,13,75,0,46,Vincent Duvall,267,,Drama,Ty Parker,Tiger Orange ,683,488,Loanne Bishop,2,coming out|father son relationship|gay|gay brother|toilet sex,http://www.imdb.com/title/tt2866824/?ref_=fn_tt_tt_1,8,English,USA,Unrated,100000,2014,87,6.8,1.78,182
-Color,Daniel Schechter,15,87,8,272,Kevin Corrigan,969,,Comedy,Lena Dunham,Supporting Characters ,760,2398,Alex Karpovsky,0,film editor|kiss|marriage proposal|movie screening|urination,http://www.imdb.com/title/tt1874789/?ref_=fn_tt_tt_1,4,English,USA,Not Rated,,2012,778,6.3,,209
-Color,Mike Flanagan,125,87,59,9,Courtney Bell,35,,Drama|Horror|Mystery,Justin Gordon,Absentia ,13065,97,Erin Cipolletti,0,anticipate|dead in absentia|foetus|tunnel|unreliable narration,http://www.imdb.com/title/tt1610996/?ref_=fn_tt_tt_1,136,English,USA,R,70000,2011,28,5.8,1.78,3000
-Color,Edward Burns,36,98,0,73,Michael McGlone,138,10246600,Comedy|Drama|Romance,Shari Albert,The Brothers McMullen ,6375,388,Maxine Bahns,0,abusive father|critically acclaimed|loss of father|love|true love,http://www.imdb.com/title/tt0112585/?ref_=fn_tt_tt_1,36,English,USA,R,25000,1995,111,6.6,1.85,265
-Color,Matt Johnson,73,83,8,8,Shailene Garnett,111,,Crime|Drama|Thriller,Paul Daniel Ayotte,The Dirties ,3885,147,Matt Johnson,0,best friend|bully|friend|revenge|school,http://www.imdb.com/title/tt2334896/?ref_=fn_tt_tt_1,40,English,Canada,Not Rated,,2013,19,6.7,,1000
-Color,Bruno Barreto,1,99,9,3,Sonia Braga,866,,Comedy|Drama|Romance,Marcello Mastroianni,Gabriela ,712,1179,Joffre Soares,0,based on novel|brazil|female underarm hair|sex in a window|star appears nude,http://www.imdb.com/title/tt0085575/?ref_=fn_tt_tt_1,9,Portuguese,Brazil,R,,1983,308,6.4,2.35,114
-Color,Lena Dunham,113,98,969,433,Merritt Wever,969,389804,Comedy|Drama|Romance,Lena Dunham,Tiny Furniture ,11816,2530,Jemima Kirke,0,adult returns home|girl with glasses|hipster|shower|title directed by female,http://www.imdb.com/title/tt1570989/?ref_=fn_tt_tt_1,35,English,USA,Not Rated,65000,2010,529,6.3,2.35,0
-Color,Terron R. Parsons,13,93,9,133,Jeremy Sande,743,,Crime|Drama|Horror,Richard Tyson,Hayride ,485,1527,Corlandos Scott,0,,http://www.imdb.com/title/tt1861343/?ref_=fn_tt_tt_1,5,English,USA,Not Rated,60000,2012,413,3.4,1.78,284
-Color,Daniel Mellitz,,,0,15,Chelse Swain,1000,,Comedy|Drama,Corbin Bernsen,The Naked Ape ,128,1077,Amanda MacDonald,0,coming of age|male nudity|road trip|skinny dipping|teenager,http://www.imdb.com/title/tt0381053/?ref_=fn_tt_tt_1,3,English,USA,,,2006,36,4.7,,2
-Color,Jem Cohen,12,111,6,,,,,Documentary,,Counting ,61,0,,0,city|city symphony|diary|essay|surveillance,http://www.imdb.com/title/tt4462082/?ref_=fn_tt_tt_1,1,English,USA,,50000,2015,,6.0,1.78,5
- Black and White,Andrew Leman,60,47,2,5,David Mersault,19,,Fantasy|Horror|Mystery|Thriller,Dan Novy,The Call of Cthulhu ,6261,43,Barry Lynch,0,1920s|cthulhu|dream|sailor|silent film,http://www.imdb.com/title/tt0478988/?ref_=fn_tt_tt_1,99,English,USA,,50000,2005,9,7.3,1.33,0
-Color,Dave Carroll,10,92,0,,,0,,Documentary,Chris 'Wonder' Schoeck,Bending Steel ,53,0,,0,,http://www.imdb.com/title/tt2181837/?ref_=fn_tt_tt_1,10,English,USA,,50000,2013,,7.9,16.0,33
-Color,William Eubank,161,97,18,236,Olivia Cooke,852,,Sci-Fi|Thriller,Lin Shaye,The Signal ,48236,1922,Beau Knapp,0,computer hacker|girlfriend in a coma|nosebleed|prosthetic leg|road trip,http://www.imdb.com/title/tt2910814/?ref_=fn_tt_tt_1,180,English,USA,PG-13,4000000,2014,680,6.1,2.35,10000
-Color,Patrick Meaney,7,81,3,18,Greg Aronowitz,26,,Biography|Documentary,Taliesin Jaffe,The Image Revolution ,66,70,Jeff Dowd,7,comic book|comic book history|comics|spawn|walking dead,http://www.imdb.com/title/tt2294916/?ref_=fn_tt_tt_1,2,English,USA,,50000,2014,20,7.4,,83
-Color,Chad Hartigan,34,83,3,69,Paul Eenhoorn,695,,Drama,Jan Haley,This Is Martin Bonner ,733,1438,Demetrius Grosse,0,estranged daughter|friendship|nevada|prisoner|unlikely friendship,http://www.imdb.com/title/tt1798291/?ref_=fn_tt_tt_1,7,English,USA,R,42000,2013,571,6.6,16.0,234
-Color,Malcolm Goodwin,,96,117,281,Jon Gries,948,,Comedy,Katrina Bowden,A True Story ,181,2058,Kelen Coleman,5,ellipsis in title|long title|period in title|punctuation in title|title ends with period,http://www.imdb.com/title/tt1524083/?ref_=fn_tt_tt_1,4,English,USA,,45000,2013,482,5.5,2.35,72
-Color,David Gordon Green,75,90,234,15,Eddie Rouse,552,241816,Drama,Paul Schneider,George Washington ,6246,642,Damian Jewan Lee,0,cover up|north carolina|redemption|small town|teenager,http://www.imdb.com/title/tt0262432/?ref_=fn_tt_tt_1,76,English,USA,Unrated,42000,2000,61,7.5,2.35,451
-Color,Kevin Jordan,21,90,4,113,Christa Miller,20000,277233,Comedy|Romance,Derick Martini,Smiling Fish & Goat on Fire ,2631,20814,Ion Overman,5,accountant|actor|animal in title|mail carrier|single parent,http://www.imdb.com/title/tt0162348/?ref_=fn_tt_tt_1,26,English,USA,R,40000,1999,467,7.6,1.85,0
-Color,Kirk Loudon,3,95,0,279,Johnny Walter,883,,Drama|Sci-Fi|Thriller,Barry Corbin,Dawn of the Crescent Moon ,34,2618,Shiree Nelson,0,,http://www.imdb.com/title/tt3157318/?ref_=fn_tt_tt_1,2,English,USA,,75000,2014,507,5.0,,87
-Color,Travis Legge,2,83,138,76,Patricia Raven,307,,Horror,Elissa Dowling,Raymond Did It ,192,619,Lindsay Felton,0,blood|independent film|mutilation|violence,http://www.imdb.com/title/tt1716760/?ref_=fn_tt_tt_1,6,English,USA,Unrated,40000,2011,114,3.2,2.35,239
-Color,Martin Scorsese,71,117,17000,476,Levon Helm,725,321952,Documentary|Music,Ringo Starr,The Last Waltz ,12611,2783,Bob Dylan,0,band|final concert|guitar|interview|thanksgiving,http://www.imdb.com/title/tt0077838/?ref_=fn_tt_tt_1,113,English,USA,PG,,1978,572,8.2,1.85,0
-Color,Collin Joseph Neal,7,75,14,130,Thomas Brophy,252,,Horror|Thriller,Julianne Gabert,"Run, Hide, Die ",106,638,Ronee Collins,0,,http://www.imdb.com/title/tt2442662/?ref_=fn_tt_tt_1,5,English,USA,,50000,2012,132,3.7,2.35,225
-Color,Bradley Rust Gray,61,79,2,20,Mark Rendall,962,24705,Drama,Zoe Kazan,The Exploding Girl ,1516,1054,Jordan Scovel,0,friend|hospital|low budget film|ring|stoned,http://www.imdb.com/title/tt1294161/?ref_=fn_tt_tt_1,10,English,USA,Unrated,,2009,72,6.3,,377
-Color,Mike Bruce,3,78,6,17,Kirpatrick Thomas,32,243768,Western,Joseph Campanella,The Legend of God's Gun ,143,72,Christian Anderson,0,,http://www.imdb.com/title/tt1073221/?ref_=fn_tt_tt_1,9,English,USA,R,30000,2007,17,4.1,2.35,13
- Black and White,Andrew Bujalski,52,109,26,3,Kate Dollenmayer,26,,Comedy,Andrew Bujalski,Mutual Appreciation ,1578,38,Justin Rice,0,friendship|guitarist|mumblecore|musician|new york,http://www.imdb.com/title/tt0446747/?ref_=fn_tt_tt_1,23,English,USA,R,,2005,6,6.9,1.66,91
-Color,Damir Catic,,89,2,0,Ron Gelner,5,,Horror,Nichole Ceballos,Her Cry: La Llorona Investigation ,23,5,Parker Riggs,0,la llorona|weeping,http://www.imdb.com/title/tt2469216/?ref_=fn_tt_tt_1,2,English,USA,Not Rated,60000,2013,0,5.4,,48
-Color,Ben Wheatley,53,93,214,59,Tony Way,177,9609,Comedy|Crime|Drama,Michael Smiley,Down Terrace ,2646,365,David Schaal,4,black comedy,http://www.imdb.com/title/tt1489167/?ref_=fn_tt_tt_1,22,English,UK,R,,2009,95,6.5,,535
- Black and White,Kevin Smith,136,102,0,216,Brian O'Halloran,898,3151130,Comedy,Jason Mewes,Clerks ,181749,2103,Jeff Anderson,4,clerk|friend|hockey|video|video store,http://www.imdb.com/title/tt0109445/?ref_=fn_tt_tt_1,615,English,USA,R,230000,1994,657,7.8,1.37,0
-Color,James Bidgood,8,65,0,,Bobby Kendall,0,8231,Drama|Fantasy,Don Brooks,Pink Narcissus ,803,0,,1,male frontal nudity|male pubic hair|male rear nudity|pubic hair|street hustler,http://www.imdb.com/title/tt0067580/?ref_=fn_tt_tt_1,16,English,USA,Not Rated,27000,1971,0,6.7,1.37,85
-Color,Andrew Bujalski,43,85,26,3,Kate Dollenmayer,26,,Comedy|Drama,Andrew Bujalski,Funny Ha Ha ,1894,40,Justin Rice,1,mumblecore,http://www.imdb.com/title/tt0327753/?ref_=fn_tt_tt_1,61,English,USA,,,2002,6,6.4,1.37,108
-Color,Neil LaBute,80,97,119,7,Matt Malloy,136,2856622,Comedy|Drama,Stacy Edwards,In the Company of Men ,11550,254,Jason Dixie,0,business trip|love|misogynist|office|secretary,http://www.imdb.com/title/tt0119361/?ref_=fn_tt_tt_1,197,English,Canada,R,25000,1997,108,7.3,1.85,489
-Color,David Ayer,233,109,453,120,Martin Donovan,1000,10499968,Action|Crime|Drama|Thriller,Mireille Enos,Sabotage ,47502,1458,Maurice Compte,3,dea|drug cartel|kicked in the crotch|strip club|tough girl,http://www.imdb.com/title/tt1742334/?ref_=fn_tt_tt_1,212,English,USA,R,35000000,2014,206,5.7,1.85,10000
-Color,Eric Eason,28,79,3,42,Panchito Gómez,93,,Drama|Family,Franky G,Manito ,493,243,Casper Martinez,0,ex convict|graduation|manhattan new york city|older brother is bad influence|washington heights manhattan new york city,http://www.imdb.com/title/tt0298050/?ref_=fn_tt_tt_1,21,English,USA,,24000,2002,46,7.0,1.78,61
-Color,Uwe Boll,58,80,892,492,Katharine Isabelle,986,,Action|Crime|Thriller,Matt Frewer,Rampage ,15091,3197,Michael Paré,0,death|first part|killing spree|massacre|murder,http://www.imdb.com/title/tt1337057/?ref_=fn_tt_tt_1,129,English,Canada,R,,2009,918,6.3,2.35,0
- Black and White,Richard Linklater,61,100,0,0,Richard Linklater,5,1227508,Comedy|Drama,Tommy Pallotta,Slacker ,15103,5,Jean Caffeine,0,austin texas|moon|pap smear|texas|twenty something,http://www.imdb.com/title/tt0102943/?ref_=fn_tt_tt_1,80,English,USA,R,23000,1991,0,7.1,1.37,2000
-Color,Joseph Mazzella,,90,0,9,Mikaal Bates,313,,Crime|Drama|Thriller,Tjasa Ferme,Dutch Kills ,57,366,Damon Owlia,2,,http://www.imdb.com/title/tt2759066/?ref_=fn_tt_tt_1,2,English,USA,,25000,2015,25,4.8,,33
-Color,Travis Legge,1,90,138,138,Suzi Lorraine,370,,Comedy|Romance,Kristen Seavey,Dry Spell ,114,841,Travis Legge,1,anti romantic comedy|dating|divorce|sex comedy|sex scene,http://www.imdb.com/title/tt2375036/?ref_=fn_tt_tt_1,3,English,USA,,22000,2013,184,3.3,1.78,200
-Color,Alex Kendrick,5,120,589,4,Lisa Arnold,51,,Drama,Shannen Fields,Flywheel ,2986,108,Janet Lee Dapper,1,baby|car salesman|christian film|pregnancy|used car salesman,http://www.imdb.com/title/tt0425027/?ref_=fn_tt_tt_1,49,English,USA,,20000,2003,49,6.9,1.85,725
-Color,Marcus Nispel,43,91,158,265,Brittany Curran,630,,Horror|Mystery|Thriller,Ashley Tramonte,Exeter ,3836,2679,Lindsay MacDonald,0,asylum|demon|party|secret|teenager,http://www.imdb.com/title/tt1945044/?ref_=fn_tt_tt_1,33,English,USA,R,,2015,512,4.6,1.85,0
-,Brandon Landers,,143,8,8,Alana Kaniewski,720,,Drama|Horror|Thriller,Robbie Barnes,The Ridges ,125,770,Brandon Landers,0,avatar|college|death|tron|university,http://www.imdb.com/title/tt1781935/?ref_=fn_tt_tt_1,8,English,USA,,17350,2011,19,3.0,,33
-Color,Jay Duplass,51,85,157,10,Katie Aselton,830,192467,Comedy|Drama|Romance,Mark Duplass,The Puffy Chair ,4067,1064,Bari Hyman,0,birthday|gift|motel|new york city|upholsterer,http://www.imdb.com/title/tt0436689/?ref_=fn_tt_tt_1,71,English,USA,R,15000,2005,224,6.6,,297
- Black and White,Jim Chuchu,6,60,0,4,Olwenya Maina,147,,Drama,Paul Ogola,Stories of Our Lives ,70,170,Mugambi Nthiga,0,,http://www.imdb.com/title/tt3973612/?ref_=fn_tt_tt_1,1,Swahili,Kenya,,15000,2014,19,7.4,,45
-Color,Daryl Wein,22,88,38,211,Heather Burns,331,76382,Romance,Zoe Lister-Jones,Breaking Upwards ,1194,1546,Ebon Moss-Bachrach,2,,http://www.imdb.com/title/tt1247644/?ref_=fn_tt_tt_1,8,English,USA,,15000,2009,212,6.2,2.35,324
-Color,Jason Trost,42,78,91,86,Jason Trost,407,,Sci-Fi|Thriller,Sean Whalen,All Superheroes Must Die ,1771,674,Nick Principe,0,arch villain|game of death|kidnapping|superhero,http://www.imdb.com/title/tt1836212/?ref_=fn_tt_tt_1,35,English,USA,Unrated,20000,2011,91,4.0,2.35,835
-Color,John Waters,73,108,0,105,Mink Stole,462,180483,Comedy|Crime|Horror,Divine,Pink Flamingos ,16792,760,Edith Massey,2,absurd humor|egg|gross out humor|lesbian|sex,http://www.imdb.com/title/tt0069089/?ref_=fn_tt_tt_1,183,English,USA,NC-17,10000,1972,143,6.1,1.37,0
-Color,Olivier Assayas,81,110,107,45,Béatrice Dalle,576,136007,Drama|Music|Romance,Maggie Cheung,Clean ,3924,776,Don McKellar,1,jail|junkie|money|motel|singer,http://www.imdb.com/title/tt0388838/?ref_=fn_tt_tt_1,39,French,France,R,4500,2004,133,6.9,2.35,171
-Color,Jafar Panahi,64,90,397,0,Nargess Mamizadeh,5,673780,Drama,Fereshteh Sadre Orafaiy,The Circle ,4555,5,Mojgan Faramarzi,0,abortion|bus|hospital|prison|prostitution,http://www.imdb.com/title/tt0255094/?ref_=fn_tt_tt_1,26,Persian,Iran,Not Rated,10000,2000,0,7.5,1.85,697
- Black and White,Ivan Kavanagh,12,83,18,0,Michael Parle,10,,Horror,Patrick O'Donnell,Tin Can Man ,57,15,Emma Eliza Regan,0,,http://www.imdb.com/title/tt1235811/?ref_=fn_tt_tt_1,1,English,Ireland,,10000,2007,5,6.7,1.33,105
-Color,Kiyoshi Kurosawa,78,111,62,6,Anna Nakagawa,89,94596,Crime|Horror|Mystery|Thriller,Kôji Yakusho,The Cure ,6318,115,Denden,0,breasts|interrogation|investigation|murder|watching television,http://www.imdb.com/title/tt0123948/?ref_=fn_tt_tt_1,50,Japanese,Japan,,1000000,1997,13,7.4,1.85,817
-Color,Tadeo Garcia,,84,5,12,Michael Cortez,21,,Drama,Tatiana Suarez-Pico,On the Downlow ,156,62,Eric Ambriz,2,gang initiation|gunplay|hazing|latino|shakespeare's romeo and juliet,http://www.imdb.com/title/tt0390323/?ref_=fn_tt_tt_1,3,English,USA,,,2004,20,6.1,,22
-Color,Thomas L. Phillips,13,82,120,84,Joe Coffey,785,,Comedy|Horror|Thriller,Julianna Pitt,Sanctuary; Quite a Conundrum ,133,1111,John Lucas,,nudity|party|pirate|swimsuit|three word title,http://www.imdb.com/title/tt2049518/?ref_=fn_tt_tt_1,8,English,USA,,200000,2012,98,5.4,16.0,424
-Color,Ash Baron-Cohen,10,98,3,152,Stanley B. Herman,789,,Crime|Drama,Peter Greene,Bang ,438,1186,James Noble,1,corruption|homeless|homeless man|motorcycle|urban legend,http://www.imdb.com/title/tt0109266/?ref_=fn_tt_tt_1,14,English,USA,,,1995,194,6.4,,20
-Color,Shane Carruth,143,77,291,8,David Sullivan,291,424760,Drama|Sci-Fi|Thriller,Shane Carruth,Primer ,72639,368,Casey Gooden,0,changing the future|independent film|invention|nonlinear timeline|time travel,http://www.imdb.com/title/tt0390384/?ref_=fn_tt_tt_1,371,English,USA,PG-13,7000,2004,45,7.0,1.85,19000
-Color,Neill Dela Llana,35,80,0,0,Edgar Tancangco,0,70071,Thriller,Ian Gamazon,Cavite ,589,0,Quynn Ton,0,jihad|mindanao|philippines|security guard|squatter,http://www.imdb.com/title/tt0428303/?ref_=fn_tt_tt_1,35,English,Philippines,Not Rated,7000,2005,0,6.3,,74
-Color,Robert Rodriguez,56,81,0,6,Peter Marquardt,121,2040920,Action|Crime|Drama|Romance|Thriller,Carlos Gallardo,El Mariachi ,52055,147,Consuelo Gómez,0,assassin|death|guitar|gun|mariachi,http://www.imdb.com/title/tt0104815/?ref_=fn_tt_tt_1,130,Spanish,USA,R,7000,1992,20,6.9,1.37,0
-Color,Anthony Vallone,,84,2,2,John Considine,45,,Crime|Drama,Richard Jewell,The Mongol King ,36,93,Sara Stepnicka,0,jewell|mongol|nostradamus|stepnicka|vallone,http://www.imdb.com/title/tt0430371/?ref_=fn_tt_tt_1,1,English,USA,PG-13,3250,2005,44,7.8,,4
-Color,Edward Burns,14,95,0,133,Caitlin FitzGerald,296,4584,Comedy|Drama,Kerry Bishé,Newlyweds ,1338,690,Daniella Pineda,1,written and directed by cast member,http://www.imdb.com/title/tt1880418/?ref_=fn_tt_tt_1,14,English,USA,Not Rated,9000,2011,205,6.4,,413
-Color,Scott Smith,1,87,2,318,Daphne Zuniga,637,,Comedy|Drama,Eric Mabius,Signed Sealed Delivered ,629,2283,Crystal Lowe,2,fraud|postal worker|prison|theft|trial,http://www.imdb.com/title/tt3000844/?ref_=fn_tt_tt_1,6,English,Canada,,,2013,470,7.7,,84
-Color,,43,43,,319,Valorie Curry,841,,Crime|Drama|Mystery|Thriller,Natalie Zea,The Following             ,73839,1753,Sam Underwood,1,cult|fbi|hideout|prison escape|serial killer,http://www.imdb.com/title/tt2071645/?ref_=fn_tt_tt_1,359,English,USA,TV-14,,,593,7.5,16.0,32000
-Color,Benjamin Roberds,13,76,0,0,Maxwell Moody,0,,Drama|Horror|Thriller,Eva Boehnke,A Plague So Pleasant ,38,0,David Chandler,0,,http://www.imdb.com/title/tt2107644/?ref_=fn_tt_tt_1,3,English,USA,,1400,2013,0,6.3,,16
-Color,Daniel Hsia,14,100,0,489,Daniel Henney,946,10443,Comedy|Drama|Romance,Alan Ruck,Shanghai Calling ,1255,2386,Eliza Coupe,5,,http://www.imdb.com/title/tt2070597/?ref_=fn_tt_tt_1,9,English,USA,PG-13,,2012,719,6.3,2.35,660
-Color,Jon Gunn,43,90,16,16,Brian Herzlinger,86,85222,Documentary,John August,My Date with Drew ,4285,163,Jon Gunn,0,actress name in title|crush|date|four word title|video camera,http://www.imdb.com/title/tt0378407/?ref_=fn_tt_tt_1,84,English,USA,PG,1100,2004,23,6.6,1.85,456
+Dan Reed,Thriller,Danny Dyer,5.6
+John Reinhardt,Crime|Drama,Sheldon Leonard,7.1
+Patrick Ryan Sims,Action|Drama|Sci-Fi|Thriller,Claire Gordon-Harper,3.6
+Laslo Benedek,Crime|Horror|Thriller,Liv Ullmann,6.8
+Jason Miller,Biography|Documentary|Music,Jon Brion,7.6
+Dennis Iliadis,Crime|Horror|Thriller,Tony Goldwyn,6.6
+Sut Jhally,Documentary,Noam Chomsky,8.3
+Darren Aronofsky,Drama|Mystery|Thriller,Mark Margolis,7.5
+Julie Davis,Comedy|Romance,Jack McGee,5.4
+Myles Berkowitz,Biography|Comedy|Romance,Tia Carrere,5.3
+Brett Piper,Action|Sci-Fi|Thriller,Michelle Simone Miller,4.5
+Morgan Spurlock,Comedy|Documentary|Drama,Chemeeka Walker,7.3
+Brandon Trost,Comedy,Clifton Collins Jr.,5.6
+Joe Swanberg,Comedy|Drama,Anna Kendrick,5.6
+Joseph Green,Horror|Sci-Fi,Virginia Leith,4.1
+Wade Gasque,Drama,Ty Parker,6.8
+Daniel Schechter,Comedy,Lena Dunham,6.3
+Mike Flanagan,Drama|Horror|Mystery,Justin Gordon,5.8
+Edward Burns,Comedy|Drama|Romance,Shari Albert,6.6
+Matt Johnson,Crime|Drama|Thriller,Paul Daniel Ayotte,6.7
+Bruno Barreto,Comedy|Drama|Romance,Marcello Mastroianni,6.4
+Lena Dunham,Comedy|Drama|Romance,Lena Dunham,6.3
+Terron R. Parsons,Crime|Drama|Horror,Richard Tyson,3.4
+Daniel Mellitz,Comedy|Drama,Corbin Bernsen,4.7
+Jem Cohen,Documentary,,6
+Andrew Leman,Fantasy|Horror|Mystery|Thriller,Dan Novy,7.3
+Dave Carroll,Documentary,Chris 'Wonder' Schoeck,7.9
+William Eubank,Sci-Fi|Thriller,Lin Shaye,6.1
+Patrick Meaney,Biography|Documentary,Taliesin Jaffe,7.4
+Chad Hartigan,Drama,Jan Haley,6.6
+Malcolm Goodwin,Comedy,Katrina Bowden,5.5
+David Gordon Green,Drama,Paul Schneider,7.5
+Kevin Jordan,Comedy|Romance,Derick Martini,7.6
+Kirk Loudon,Drama|Sci-Fi|Thriller,Barry Corbin,5
+Travis Legge,Horror,Elissa Dowling,3.2
+Martin Scorsese,Documentary|Music,Ringo Starr,8.2
+Collin Joseph Neal,Horror|Thriller,Julianne Gabert,3.7
+Bradley Rust Gray,Drama,Zoe Kazan,6.3
+Mike Bruce,Western,Joseph Campanella,4.1
+Andrew Bujalski,Comedy,Andrew Bujalski,6.9
+Damir Catic,Horror,Nichole Ceballos,5.4
+Ben Wheatley,Comedy|Crime|Drama,Michael Smiley,6.5
+Kevin Smith,Comedy,Jason Mewes,7.8
+James Bidgood,Drama|Fantasy,Don Brooks,6.7
+Andrew Bujalski,Comedy|Drama,Andrew Bujalski,6.4
+Neil LaBute,Comedy|Drama,Stacy Edwards,7.3
+David Ayer,Action|Crime|Drama|Thriller,Mireille Enos,5.7
+Eric Eason,Drama|Family,Franky G,7
+Uwe Boll,Action|Crime|Thriller,Matt Frewer,6.3
+Richard Linklater,Comedy|Drama,Tommy Pallotta,7.1
+Joseph Mazzella,Crime|Drama|Thriller,Tjasa Ferme,4.8
+Travis Legge,Comedy|Romance,Kristen Seavey,3.3
+Alex Kendrick,Drama,Shannen Fields,6.9
+Marcus Nispel,Horror|Mystery|Thriller,Ashley Tramonte,4.6
+Brandon Landers,Drama|Horror|Thriller,Robbie Barnes,3
+Jay Duplass,Comedy|Drama|Romance,Mark Duplass,6.6
+Jim Chuchu,Drama,Paul Ogola,7.4
+Daryl Wein,Romance,Zoe Lister-Jones,6.2
+Jason Trost,Sci-Fi|Thriller,Sean Whalen,4
+John Waters,Comedy|Crime|Horror,Divine,6.1
+Olivier Assayas,Drama|Music|Romance,Maggie Cheung,6.9
+Jafar Panahi,Drama,Fereshteh Sadre Orafaiy,7.5
+Ivan Kavanagh,Horror,Patrick O'Donnell,6.7
+Kiyoshi Kurosawa,Crime|Horror|Mystery|Thriller,Kôji Yakusho,7.4
+Tadeo Garcia,Drama,Tatiana Suarez-Pico,6.1
+Thomas L. Phillips,Comedy|Horror|Thriller,Julianna Pitt,5.4
+Ash Baron-Cohen,Crime|Drama,Peter Greene,6.4
+Shane Carruth,Drama|Sci-Fi|Thriller,Shane Carruth,7
+Neill Dela Llana,Thriller,Ian Gamazon,6.3
+Robert Rodriguez,Action|Crime|Drama|Romance|Thriller,Carlos Gallardo,6.9
+Anthony Vallone,Crime|Drama,Richard Jewell,7.8
+Edward Burns,Comedy|Drama,Kerry Bishé,6.4
+Scott Smith,Comedy|Drama,Eric Mabius,7.7
+,Crime|Drama|Mystery|Thriller,Natalie Zea,7.5
+Benjamin Roberds,Drama|Horror|Thriller,Eva Boehnke,6.3
+Daniel Hsia,Comedy|Drama|Romance,Alan Ruck,6.3
+Jon Gunn,Documentary,John August,6.6
+Edward Burns,Comedy|Drama|Romance,John Mahoney,6.1
+Bill Condon,Biography|Drama,Brendan Fraser,7.5
+Juan José Campanella,Drama|Mystery|Thriller,Ricardo Darín,8.2
+George A. Romero,Horror,Greg Nicotero,7.2
+Gideon Raff,Horror|Thriller,Gideon Emery,4.8
+Sam Raimi,Comedy|Fantasy|Horror|Thriller,Ted Raimi,7.8
+Louis C.K.,Action|Adventure|Comedy|Musical,Wanda Sykes,5.2
+Anthony C. Ferrante,Horror,Ian Ziering,3.3
+Salvador Carrasco,Drama|History,Elpidia Carrillo,6.8
+André Øvredal,Comedy|Drama|Fantasy|Horror,Otto Jespersen,7
+Robert Cary,Comedy|Romance,Frances Conroy,6.5
+Akiva Schaffer,Action|Comedy|Sci-Fi,Will Forte,5.7
+Adam Rapp,Comedy|Drama,Zooey Deschanel,6.4
+Angela Robinson,Action|Comedy|Romance,Jordana Brewster,5.3
+Warren P. Sonoda,Action|Biography|Crime|Drama|Family|Fantasy,Diahann Carroll,4.7
+Amanda Gusack,Crime|Drama|Mystery|Thriller,Alice Krige,6.1
+Avi Nesher,Action|Comedy|Crime|Thriller,Fisher Stevens,5.5
+,Drama|Thriller,James Nesbitt,7.3
+Charles Adelman,Horror|Thriller,Teri Polo,4.8
+Jay Oliva,Action|Animation|Crime|Sci-Fi|Thriller,Michael Emerson,8.4
+Charles Ferguson,Documentary,Jane Goodall,7
+Uwe Boll,Action|Adventure|Fantasy|Thriller,Bashar Rahal,3.3
+Mark Young,Action|Crime|Drama|Thriller,Alexa PenaVega,5.4
+Daniel Petrie Jr.,Drama|Thriller,Chris Brochu,4.8
+Antonio Simoncini,Crime|Mystery|Thriller,Ray Winstone,3.1
+Mel Brooks,Comedy,Madeline Kahn,6.7
+Luc Jacquet,Documentary,Morgan Freeman,7.6
+J.C. Chandor,Biography|Drama|Thriller,Kevin Spacey,7.1
+Eldar Rapaport,Drama|Romance,Murray Bartlett,6.1
+Clark Gregg,Comedy|Drama,Anjelica Huston,6.5
+Damien Chazelle,Drama|Music,J.K. Simmons,8.5
+Fernando Meirelles,Crime|Drama,Alice Braga,8.7
+Justin Kerrigan,Comedy|Music,Danny Dyer,7.1
+Nathan Frankowski,Biography|Drama|Music,Corbin Bleu,6.6
+Karen Moncrieff,Crime|Drama|Mystery,James Franco,6.7
+Thomas Vinterberg,Drama,Thomas Bo Larsen,8.3
+Bob Clark,Comedy|Family,Zack Ward,8.1
+Alejandro Monteverde,Drama|Romance,Armando Riesco,7.4
+Mark L. Lester,Action|Crime|Drama|Thriller,Roddy McDowall,6.6
+Jennifer Finnigan,Comedy,Geoff Stults,4.5
+Eric Styles,Drama|Romance,Samantha Morton,6.4
+Laurent Cantet,Drama,François Bégaudeau,7.5
+Roman Polanski,Drama|Horror,John Cassavetes,8
+John Ford,Drama|Western,Lee Marvin,8.1
+Max Mayer,Drama|Romance,Peter Gallagher,7.2
+Joshua Marston,Crime|Drama,Catalina Sandino Moreno,7.5
+Mike Mills,Comedy|Drama|Romance,Goran Visnjic,7.2
+John Gulager,Action|Comedy|Horror|Thriller,Krista Allen,6.4
+John Landis,Comedy,John Belushi,7.6
+Guy Hamilton,Action|Adventure|Thriller,Honor Blackman,7.8
+Brandon Cronenberg,Horror|Sci-Fi|Thriller,Sarah Gadon,5.7
+Frank Capra,Drama|Family|Fantasy|Romance,Donna Reed,8.6
+Danny Boyle,Drama,Kelly Macdonald,8.2
+Spike Lee,Comedy|Documentary,Bernie Mac,6.6
+Tod Williams,Horror,Sprague Grayden,5.7
+Kirk Jones,Comedy,James Nesbitt,7.4
+Michael Moore,Crime|Documentary|Drama,Michael Moore,8
+Yimou Zhang,Drama,Li Gong,7.3
+Jack Sholder,Fantasy|Horror,Clu Gulager,5.4
+James Ivory,Drama|Romance,Julian Sands,7.4
+James DeMonaco,Horror|Sci-Fi|Thriller,Rhys Wakefield,5.7
+Scott Derrickson,Horror|Mystery,Danielle Kotch,6.8
+David Raynr,Biography|Comedy|Documentary,Nancy O'Dell,5.4
+Richard Brooks,Drama|Romance,Burl Ives,8.1
+Ted Post,Action|Adventure|Sci-Fi,Linda Harrison,6.1
+Charles Martin Smith,Comedy|Drama|Family|Sport,Kevin Zegers,5.1
+Kunihiko Yuyama,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Veronica Taylor,5.6
+Tom McLoughlin,Horror|Thriller,Tony Goldwyn,5.9
+David Lean,Adventure|Drama|War,William Holden,8.2
+Patrick Read Johnson,Adventure|Comedy|Sci-Fi,Ariana Richards,5.3
+Alfred Hitchcock,Comedy|Thriller,Ed Lauter,6.8
+Billy Wilder,Comedy|Drama|Romance,Fred MacMurray,8.3
+Adam Marcus,Fantasy|Horror|Thriller,Kane Hodder,4.3
+Alfred Hitchcock,Thriller,Tamara Toumanova,6.7
+Michel Gondry,Comedy|Documentary|Music,Common,7.2
+John Maclean,Western,Michael Fassbender,6.9
+Michael Schultz,Comedy|Drama|Music,Blair Underwood,6.6
+Benny Boom,Action|Comedy|Crime,Omari Hardwick,5.9
+Richard Brooks,Drama,Shirley Jones,7.9
+Stanley Kramer,Drama|War,Maximilian Schell,8.3
+David Raynr,Comedy,Donald Faison,5.2
+,Animation|Comedy,Matthew Senreich,7.8
+Howard Hawks,Action|Adventure|Romance|Western,Montgomery Clift,7.8
+Nnegest Likké,Comedy,Mo'Nique,3
+Richard Linklater,Drama|Romance,Seamus Davey-Fitzpatrick,7.9
+Christopher Leitch,Comedy|Fantasy,John Astin,3.2
+Don Coscarelli,Action|Fantasy|Horror|Sci-Fi|Thriller,Angus Scrimm,6.5
+Michael Schultz,Drama,Loretta Devine,6.9
+Patricia Cardoso,Comedy|Drama,America Ferrera,7
+,Drama|War,Rachel Griffiths,7.4
+Deepa Mehta,Drama|Romance,John Abraham,7.8
+Damien O'Donnell,Comedy|Drama,Archie Panjabi,6.9
+Peter M. Cohen,Comedy|Romance,Callie Thorne,4.4
+Mira Nair,Crime|Drama|History|Romance,Indira Varma,6
+Nicole Holofcener,Comedy|Drama,Oliver Platt,6.6
+Mel Stuart,Family|Fantasy|Musical,Peter Ostrum,7.8
+Anthony Hickox,Fantasy|Horror,Julian Sands,5.3
+Tom Schulman,Comedy|Crime,Kristy Swanson,5.3
+Terrence Malick,Drama|Romance,Sam Shepard,8
+Jill Sprecher,Drama,Matthew McConaughey,7.1
+Darren Stein,Comedy|Crime|Thriller,Julie Benz,5.4
+Julian Schnabel,Biography|Drama,Gary Oldman,6.9
+Noah Baumbach,Comedy|Drama|Romance,Greta Gerwig,7.4
+Gavin Hood,Crime|Drama,Terry Pheto,7.3
+Todd Solondz,Comedy|Drama,Philip Seymour Hoffman,7.8
+George Gallo,Comedy|Documentary,Eddie Griffin,6.6
+Kevin Smith,Comedy|Drama|Horror,Johnny Depp,5.4
+Chan-wook Park,Drama|Mystery|Thriller,Min-sik Choi,8.4
+David Nixon,Drama|Family,Robyn Lively,6.3
+Jason Eisener,Action|Comedy|Thriller,Gregory Smith,6.1
+Enrique Begne,Action|Comedy,Kevin Pollak,5
+Matthew Bright,Comedy|Crime|Drama|Thriller,Bokeem Woodbine,6.9
+Michael Landon Jr.,Drama|Family|Western,William Morgan Sheppard,7.2
+Andrea Arnold,Drama,Michael Fassbender,7.3
+Whit Stillman,Comedy|Drama|Romance,Greta Gerwig,5.7
+,Horror|Sci-Fi|Thriller,Craig T. Nelson,5
+Leslye Headland,Comedy|Romance,Kirsten Dunst,5.3
+,Comedy|Drama|Horror|Sci-Fi|Thriller,Danny Pino,7.9
+Bobby Roth,Drama|Family|Music,Virginia Madsen,5
+Tim Heidecker,Comedy,Michael Gross,5.3
+Rupert Wyatt,Crime|Drama|Thriller,George Kennedy,6
+,Drama,Susan Hampshire,7.6
+Marco Kreuzpaintner,Comedy|Drama|Romance|Sport,Alicja Bachleda,7.4
+Kate Connor,Drama|History|War,Johnny Pacar,5.9
+Deon Taylor,Horror|Thriller,Matt Cohen,4.1
+Jason Alexander,Comedy|Drama,Gretchen Mol,6.7
+Xavier Gens,Drama|Sci-Fi|Thriller,Michael Biehn,5.8
+Conor McPherson,Drama|Horror|Romance,Aidan Quinn,6.2
+Will Canon,Horror|Thriller,Frank Grillo,5.3
+Philip Zlotorynski,Comedy,Neil Hopkins,3.3
+Tim Burton,Adventure|Family|Fantasy,Johnny Depp,6.5
+Lance Kawas,Comedy,Taylor Negron,6.2
+Francesca Gregorini,Drama,Tom Everett Scott,5.9
+Marcio Garcia,Action|Drama|Thriller,John Savage,5.5
+David Wain,Comedy,Christopher Meloni,5.5
+Craig Moss,Comedy,French Stewart,2.6
+Michael Jai White,Action|Drama|Sport,Michael Jai White,5.8
+John Boorman,Crime|Thriller,Lee Marvin,7.4
+Paolo Monico,Comedy,Stephanie Szostak,5.1
+Youssef Delara,Thriller,Noel Gugliemi,5.2
+Darin Scott,Drama|Horror|Mystery|Thriller,Julian Morris,4.8
+Christian Sesma,Thriller,Bokeem Woodbine,3.9
+Monte Hellman,Adventure|Crime|Drama,Everett McGill,6.2
+Kenneth Branagh,Drama|Family|Fantasy|Romance,Hayley Atwell,7
+Brian Caunter,Action|Adventure|Crime|Drama,Mike Starr,6.2
+Chris D'Arienzo,Comedy|Drama|Romance,Judy Greer,5.9
+Walter Salles,Drama,Fernanda Montenegro,8
+Frank Capra,Comedy|Drama,Ann-Margret,7.3
+Isaac Florentine,Action|Crime,Anthony L. Fernandez,4.9
+Susan Seidelman,Comedy|Romance,Dyan Cannon,6.5
+Michael Polish,Drama|Horror|Mystery|Thriller,Olivia Rose Keegan,4.3
+Heidi Ewing,Documentary,Greg Crowe,6.4
+Richard Donner,Fantasy|Horror|Mystery,Lee Remick,7.6
+Alexandre Aja,Horror,Cécile De France,6.8
+Leon Ford,Comedy|Drama|Romance|Sci-Fi,Maeve Dermody,6.1
+Hank Braxtan,Action|Horror|Thriller,Q'orianka Kilcher,4
+Craig Brewer,Crime|Drama|Music,Isaac Hayes,7.4
+Billy Wilder,Comedy|Music|Romance,Nehemiah Persoff,8.3
+John Carl Buechler,Horror,Kane Hodder,5.3
+Victor Fleming,Adventure|Family|Fantasy|Musical,Margaret Hamilton,8.1
+Mel Brooks,Comedy,Madeline Kahn,8
+George A. Romero,Horror,Megan Park,5.7
+Rajkumar Hirani,Comedy|Drama|Romance,Vidya Balan,8.2
+Victor Nunez,Drama,Peter Fonda,7.1
+Carroll Ballard,Adventure|Family|Sport,Teri Garr,7.4
+Rohit Jugraj,Romance,Bhavkhandan Singh Rakhra,6.6
+Thorbjørn Christoffersen,Action|Adventure|Animation|Comedy|Sci-Fi,Iben Hjejle,5.7
+John Ford,Adventure|Comedy|Romance,Lee Marvin,6.9
+Alex van Warmerdam,Comedy|Drama,Rijk de Gooyer,7
+Victor Fleming,Drama|Fantasy|Romance|War,Spencer Tracy,7
+Mel Brooks,Comedy|Western,Madeline Kahn,7.8
+Joseph Zito,Horror|Thriller,Judie Aronson,5.9
+Pawel Pawlikowski,Drama,Joanna Kulig,7.4
+James Ivory,Drama|Romance,Rupert Graves,7.8
+Frank Sebastiano,Comedy|Sport,Joe Lo Truglio,6
+Rand Ravich,Drama|Sci-Fi|Thriller,Johnny Depp,5.3
+Stacy Peralta,Documentary|History|Sport,Gerry Lopez,7.9
+Nacho Vigalondo,Horror|Mystery|Sci-Fi|Thriller,Karra Elejalde,7.2
+Hao Ning,Action|Adventure|Comedy,Jack Kao,7.4
+Tony Giglio,Horror|Thriller,Brianna Brown,5.3
+Stanley Donen,Comedy|Musical|Romance,Rita Moreno,8.3
+Joe Cross,Documentary,Joe Cross,7.6
+Michael Tiddes,Comedy|Fantasy,Essence Atkins,5.1
+Dinesh D'Souza,Documentary,Barack Obama,5.1
+Rob Zombie,Horror,Scout Taylor-Compton,4.9
+Tom Hanks,Comedy|Drama|Music,Tom Hanks,6.9
+Tommy Lee Wallace,Horror|Mystery|Sci-Fi,Tom Atkins,4.6
+Don Taylor,Action|Sci-Fi,Roddy McDowall,6.3
+Martin Ritt,Drama,Patricia Neal,7.9
+Leslie Small,Comedy|Documentary,David Jason Perez,6.7
+Gus Van Sant,Drama,Keanu Reeves,7.1
+Zach Braff,Comedy|Drama|Romance,Armando Riesco,7.6
+Richard Linklater,Drama|Romance,Hanno Pöschl,8.1
+Éric Tessier,Action|Drama|Horror|Thriller,Patrick Huard,6.6
+Alison Maclean,Drama,Billy Crudup,7
+Alice Wu,Comedy|Drama|Romance,Joan Chen,7.6
+Sarah Gavron,Drama,Satish Kaushik,6.7
+Jake Schreier,Comedy|Crime|Drama|Sci-Fi,Frank Langella,7.1
+Isabel Coixet,Drama|Romance,Sarah Polley,7.6
+James Ponsoldt,Comedy|Drama|Romance,Shailene Woodley,7.1
+Randall Miller,Comedy|Family|Musical|Romance|Short,William Hurt,7.1
+Larry Charles,Comedy|Documentary|War,Bill Maher,7.7
+Joshua Tickell,Documentary,Larry David,7.6
+Tim Boxell,Drama,Bruce McGill,6.6
+Rawson Marshall Thurber,Comedy|Sport,Gary Cole,6.7
+Michael D. Sellers,Comedy|Drama|Family,Katharine Ross,5.7
+Reed Cowan,Documentary,Dustin Lance Black,7.1
+James Dodson,Comedy|Drama|Romance,Larry Miller,6.2
+Stefan Ruzowitzky,Horror|Thriller,Benno Fürmann,6.1
+Alex Rivera,Drama|Romance|Sci-Fi|Thriller,Leonor Varela,5.9
+James Gunn,Comedy|Crime|Drama,Linda Cardellini,6.8
+John Murlowski,Comedy|Drama|Family|Romance,Ashley Scott,5.8
+Benni Diez,Comedy|Horror,Clifton Collins Jr.,5
+Danny Perez,Horror,Natasha Lyonne,6.3
+Spike Lee,Drama|History,Bernie Mac,6.8
+Robby Henson,Drama|Horror|Mystery|Thriller,Marc Blucas,5.1
+Mike Judge,Adventure|Comedy|Sci-Fi,Anthony 'Citric' Campos,6.6
+Zackary Adler,Crime|Drama,Simon Merrells,5
+Shane Meadows,Crime|Drama,Stephen Graham,7.7
+Dominic Burns,Comedy|Sci-Fi,Julian Glover,3.1
+George Sidney,Comedy|Musical,Esther Williams,6.5
+Carmen Marron,Drama|Musical,Jossara Jinaro,3.9
+Tim McCanlies,Comedy|Drama|Family,Ethan Embry,6.8
+George Sidney,Drama|Family|Musical|Romance,Agnes Moorehead,7
+Mario Van Peebles,Drama,Tom Skerritt,5.9
+Jason Stone,Thriller,Topher Grace,5.8
+Jerry Rees,Adventure|Animation|Comedy|Family|Fantasy|Musical,Jon Lovitz,7.3
+James Algar,Animation|Family|Fantasy|Music,Leopold Stokowski,7.8
+William Friedkin,Action|Crime|Drama|Thriller,Roy Scheider,7.8
+Jaco Booyens,Drama|Thriller,Nicole Smolen,6.9
+Steve Miner,Horror|Thriller,Richard Brooker,5.7
+Danny Steinmann,Horror|Mystery|Thriller,Tiffany Helm,4.7
+Michael Landon Jr.,Drama,Henry Thomas,5.9
+Jon Gunn,Drama,Alexa PenaVega,5.9
+Hayley Cloake,Thriller,Brian Austin Green,4.3
+Tay Garnett,Drama,Jessica Tandy,7.5
+Shyam Madiraju,Drama|Thriller,Jessica Lowndes,4.8
+Harmage Singh Kalirai,Comedy|Drama|Romance,Saeed Jaffrey,5.8
+Rita Merson,Comedy|Music|Romance,Ryan Guzman,5.3
+Jon Knautz,Action|Comedy|Horror,Rachel Skarsten,6
+William Wyler,Drama|Romance|War,Myrna Loy,8.1
+Larry Clark,Biography|Crime|Drama,Kelli Garner,7
+Petter Næss,Comedy|Drama,Jørgen Langhelle,7.6
+Robert Fontaine,Crime|Drama,Michael Derek,7.2
+Jaume Balagueró,Horror,Manuela Velasco,7.5
+Patricia Cardoso,Drama,Rosie Perez,6.3
+Dan Perri,Comedy|Drama|Mystery|Romance|Thriller,Travis Myers,6.7
+Neil Mcenery-West,Horror|Sci-Fi|Thriller,Walter Hendrix III,4.8
+Anthony O'Brien,Adventure|Drama|Western,James Ransone,5.5
+Terence Young,Action|Adventure|Thriller,Robert Shaw,7.5
+Michael Herz,Action|Comedy|Horror|Sci-Fi,Phoebe Legere,5.1
+,Crime|Drama|Mystery,Carroll O'Connor,7.4
+Woody Allen,Comedy|Sci-Fi,Woody Allen,7.3
+David Robert Mitchell,Horror|Mystery,Maika Monroe,6.9
+Woody Allen,Comedy,Woody Allen,6.8
+Robert Mulligan,Crime|Drama,Robert Duvall,8.4
+George Miller,Action|Adventure|Sci-Fi|Thriller,Vernon Wells,7.6
+Chia-Liang Liu,Action|Comedy,Andy Lau,7.6
+Stanley Kubrick,Crime|Drama|Romance,James Mason,7.7
+Kimberly Peirce,Biography|Crime|Drama|Romance,Alicia Goranson,7.6
+Chris Kentis,Drama|Horror|Mystery|Thriller,Eric Sheffer Stevens,5.3
+Florian Henckel von Donnersmarck,Drama|Thriller,Sebastian Koch,8.5
+Alex Kendrick,Drama,Ben Davies,7
+Robert Rossen,Drama|Sport,George C. Scott,8
+Jack Conway,Adventure|Drama|Romance|Western,Hedy Lamarr,7.1
+Sylvain Chomet,Animation|Comedy|Drama,Michel Robin,7.8
+Chris Eyre,Comedy|Drama,Michael Greyeyes,7.2
+Shari Springer Berman,Biography|Comedy|Drama,Josh Hutcherson,7.5
+Richard Linklater,Drama|Romance,Vernon Dobtcheff,8
+Alejandro G. Iñárritu,Drama|Thriller,Adriana Barraza,8.1
+Catherine Hardwicke,Drama,Holly Hunter,6.8
+Elia Kazan,Drama|Romance,Dean Stockwell,7.4
+Debra Granik,Drama,Jennifer Lawrence,7.2
+Kevin Macdonald,Adventure|Documentary|Drama|Sport,Nicholas Aaron,8.1
+Henry King,Drama|Musical|Romance,Tyrone Power,7
+Miranda July,Comedy|Drama,Najarra Townsend,7.4
+Charles Ferguson,Crime|Documentary,Matt Damon,8.3
+Max Joseph,Drama|Music|Romance,Vanessa Lengies,6.1
+Jim Jarmusch,Action|Crime|Drama|Thriller,Henry Silva,7.5
+David Ayer,Action|Crime|Drama|Thriller,J.K. Simmons,7
+Jerry Jameson,Crime|Drama|Thriller,David Oyelowo,5.3
+Steven Soderbergh,Comedy|Romance,Julia Roberts,4.7
+Kevin Tenney,Horror|Mystery|Thriller,Kathleen Wilhoite,5.7
+,Comedy,Stephen Colbert,8.1
+Kenneth Branagh,Drama,Julie Christie,7.8
+John Cameron Mitchell,Comedy|Drama|Romance,Sook-Yin Lee,6.5
+Ari Folman,Animation|Biography|Documentary|Drama|History|War,Ari Folman,8
+Gary Rogers,Adventure,Noah Danby,3.3
+Charles Ferguson,Documentary|War,Campbell Scott,8.3
+Marielle Heller,Drama|Romance,Alexander Skarsgård,6.9
+,Comedy|Drama|Romance,Anne Hathaway,7.3
+David Sington,Documentary|History,John F. Kennedy,8.1
+Kelly Reichardt,Drama|Western,Bruce Greenwood,6.5
+Fenton Bailey,Biography|Documentary|History,Hugh M. Hefner,6.8
+Bob Giraldi,Crime|Drama|Romance,Danny Aiello,7.3
+Jill Sprecher,Comedy|Drama,Alanna Ubach,6.4
+Huck Botko,Comedy,Matt Bennett,4.6
+Luc Besson,Comedy|Drama|Thriller,Christopher Lambert,6.5
+David Duchovny,Comedy|Drama,Robin Williams,7
+Mitchell Lichtenstein,Comedy|Fantasy|Horror|Thriller,Jess Weixler,5.4
+Lance Mungia,Action|Adventure|Comedy|Drama|Music|Sci-Fi,Jeffrey Falcon,6.7
+Kundan Shah,Action|Comedy|Romance|Thriller,Karisma Kapoor,2.8
+Michael Dowse,Biography|Comedy|Drama|Music,Paul Kaye,7.4
+Hue Rhodes,Comedy|Drama,Peter Dinklage,5.8
+Shane Meadows,Comedy|Drama|Romance|Sport,Bob Hoskins,7.1
+Roland Emmerich,Drama,Jeremy Irvine,4.5
+,Comedy|Drama|Sci-Fi,Joe Morton,7.9
+Jugal Hansraj,Animation|Comedy|Family|Romance,Saif Ali Khan,5.3
+Danny Provenzano,Crime|Drama,Vincent Pastore,5.4
+Bill Muir,Adventure|Family|Fantasy,Alex Kendrick,4.8
+Richard LaGravenese,Comedy|Drama|Musical|Romance,Anna Kendrick,5.9
+Noah Buschel,Drama,Merritt Wever,6.2
+Brian Yuzna,Horror|Romance|Sci-Fi,Melinda Clarke,5.9
+Hunter Richards,Drama|Romance,Jason Statham,6.6
+Laurie Collyer,Drama,Brad William Henke,6.6
+Bruce McCulloch,Comedy|Crime,Martin Starr,5.1
+Aaron Hann,Drama|Horror|Mystery|Sci-Fi|Thriller,Jordi Vilasuso,6
+James Watkins,Horror|Thriller,Michael Fassbender,6.8
+Catherine Hardwicke,Thriller,Frances Fisher,5.4
+Phil Claydon,Action|Comedy|Fantasy|Horror,MyAnna Buring,5.2
+Ralph Ziman,Action|Crime|Drama,Rapulana Seiphemo,7.8
+John Simpson,Crime|Drama|Thriller,Colin Salmon,6.4
+Colin Minihan,Horror,Mackenzie Gray,6.1
+Conor McMahon,Comedy|Horror,Peter McQuinn,5.7
+Chris Shadley,Crime|Drama|Horror|Mystery|Thriller,Daniel Baldwin,5.5
+Simon Napier-Bell,Documentary,Alice Cooper,7.4
+Woody Allen,Comedy,Woody Allen,7.1
+Simon Yin,Thriller,Paul Sheehan,3.9
+Jeff Crook,Action|Crime|Drama|Thriller,Nicholas Gonzalez,4.6
+,Comedy|Drama,Steven Weber,7.3
+Orson Welles,Crime|Drama|Film-Noir|Mystery|Thriller,Rita Hayworth,7.7
+Dave Payne,Horror|Thriller,Mircea Monroe,4.9
+James Cox,Crime|Drama,Jake Gyllenhaal,6.3
+Jonas Åkerlund,Comedy|Crime|Drama,Noel Gugliemi,6.1
+Brad Copeland,Comedy,Sunil Narkar,6.6
+Paul Bunnell,Comedy|Fantasy|Musical|Sci-Fi,Kate Maberly,5.7
+Phil Morrison,Comedy|Drama,Sally Hawkins,5.6
+Harald Reinl,Horror|Mystery,Christopher Lee,6
+James Cox,Comedy|Drama,Jon Mack,5.7
+Richard Lester,Comedy|Musical,Buster Keaton,7
+Michael Moore,Documentary,Michael Moore,5.3
+Tanner Beard,Action|Adventure|History|Western,William McNamara,4.4
+Scott Dow,Comedy|Horror,Trenton Rostedt,3.4
+Derick Martini,Drama|Horror|Mystery|Thriller,Kevin Zegers,4.5
+Jerry Dugan,Thriller,Melissa Bolona,3.4
+Tim Hunter,Crime|Drama,Keanu Reeves,7.1
+Michael Polish,Drama|Fantasy,Peter Coyote,6.4
+William Kaufman,Action|Thriller,Paul McGillion,5.2
+Rodrigo Cortés,Drama|Mystery|Thriller,Ryan Reynolds,7
+Richard Ayoade,Comedy|Drama|Romance,Craig Roberts,7.3
+Jehane Noujaim,Documentary|Drama|History|News,Khalid Abdalla,8.1
+Pascal Arnold,Drama,Karl E. Landler,5.8
+Kimberly Peirce,Drama|Fantasy|Horror,Chloë Grace Moretz,5.9
+Remo,Drama|Musical,Lauren Gottlieb,6.4
+Wes Craven,Horror,Johnny Depp,7.5
+James Marsh,Biography|Crime|Documentary|History|Thriller,Paul McGill,7.8
+John Laing,Drama,Siobhan Marshall,6.3
+Jamal Hill,Drama,Logan Browning,7.2
+Daniel Stamm,Drama|Horror|Thriller,Caleb Landry Jones,5.6
+Sam Taylor-Johnson,Biography|Drama|Music,Kristin Scott Thomas,7.2
+Elia Kazan,Drama,Marlon Brando,8
+Stanley Kubrick,Comedy,George C. Scott,8.5
+Carlos Carrera,Drama|Romance,Damián Alcázar,6.8
+Benh Zeitlin,Drama|Fantasy,Quvenzhané Wallis,7.3
+J. Lee Thompson,Action|Sci-Fi,Roddy McDowall,5.5
+Maggie Greenwald,Drama|Music,Aidan Quinn,7.3
+Vera Farmiga,Drama,Donna Murphy,6.3
+Vijay Chandar,Comedy|Romance,Hansika Motwani,5.1
+Morgan Spurlock,Comedy|Documentary,Quentin Tarantino,6.6
+Jonathan Wacks,Comedy|Horror,Steve Buscemi,6.1
+Khyentse Norbu,Adventure|Drama,Tshewang Dendup,7.5
+Ted Post,Western,Clint Eastwood,7
+Richard Brooks,Crime|Drama|Film-Noir,Humphrey Bogart,7.2
+Tony Krantz,Horror|Thriller,George Newbern,5.3
+Mitchell Altieri,Comedy|Horror|Thriller,Kimberley Crossman,8.7
+W.D. Hogan,Action|Sci-Fi,Tom Everett Scott,3.4
+Corey Grant,Comedy|Drama,Christian Keyes,5.4
+Tom Tykwer,Crime|Drama,Moritz Bleibtreu,7.8
+Lucky McKee,Drama|Horror,James Duval,6.7
+Richard Boddington,Adventure|Family,Natasha Henstridge,4.7
+David Hunt,Horror,Matthew Alan,6.3
+Patricia Riggen,Adventure|Drama,America Ferrera,7.4
+J. Lee Thompson,Action|Sci-Fi,Roddy McDowall,6.1
+Todd Field,Crime|Drama,Tom Wilkinson,7.5
+Steven R. Monroe,Horror|Thriller,Sarah Butler,6.3
+Mark Illsley,Comedy|Crime|Romance,Ally Walker,6.3
+Pawel Pawlikowski,Drama|Romance,Paddy Considine,6.8
+Ritesh Batra,Drama|Romance,Nawazuddin Siddiqui,7.8
+Sally Potter,Drama|Romance,Shirley Henderson,6.9
+Frank Capra,Comedy|Drama|Romance,Jean Arthur,8
+Fred Zinnemann,Drama|Romance|War,Montgomery Clift,7.8
+John Ford,Western,Harry Carey Jr.,7.4
+Brad J. Silverman,Drama|Music,Shawnee Smith,6.1
+Dave Meyers,Comedy|Drama,Eddie Griffin,4.3
+David M. Matthews,Crime|Drama|Thriller,Essence Atkins,3.5
+Nadine Labaki,Comedy|Drama|Romance,Yasmine Al Massri,7.2
+Lluís Quílez,Horror|Thriller,Stephen Rea,4.7
+Eytan Fox,Comedy|Drama|Romance,Ohad Knoller,7.3
+Francis Ford Coppola,Drama|Mystery|Thriller,Harrison Ford,7.9
+Romesh Sharma,Romance,Annabelle Wallis,5.1
+François Truffaut,Crime|Drama|Romance,Catherine Deneuve,7.2
+Adam Goldberg,Drama|Mystery,Judy Greer,5.4
+Travis Zariwny,Horror,Dustin Ingram,3.7
+Zack Snyder,Action|Horror|Thriller,Ty Burrell,7.4
+Adrienne Shelly,Comedy|Drama|Romance,Lew Temple,7.1
+Newt Arnold,Action|Biography|Drama|Sport,Bolo Yeung,6.8
+Frank Capra,Comedy|Drama,Claude Rains,8.2
+Larry Clark,Drama,Rosario Dawson,7
+Noah Baumbach,Comedy|Drama,William Baldwin,7.4
+Charles Herman-Wurmfeld,Comedy|Drama|Romance,Scott Cohen,6.7
+Yimou Zhang,Comedy|Drama,Honglei Sun,5.7
+John Stockwell,Action,Matthew Ziff,9.1
+Alfred Hitchcock,Film-Noir|Mystery|Romance|Thriller,Norman Lloyd,7.6
+Atom Egoyan,Drama|Mystery|Romance,Bruce Greenwood,7.2
+Vincent Gallo,Comedy|Crime|Drama|Romance,Anjelica Huston,7.5
+James Wan,Fantasy|Horror|Mystery|Thriller,Lin Shaye,6.8
+Alex Cox,Comedy|Crime|Sci-Fi|Thriller,Del Zamora,6.9
+Fabián Bielinsky,Crime|Drama|Thriller,Ricardo Darín,7.9
+Dror Moreh,Documentary|War,Ami Ayalon,7.6
+Rebecca Miller,Drama,Beau Bridges,6.7
+Maggie Carey,Comedy|Romance,Donald Glover,5.8
+Roger Avary,Crime|Drama|Thriller,Eric Stoltz,6.5
+Henry Bean,Drama,Ryan Gosling,7.2
+David Gordon Green,Drama|Romance,Michael Angarano,6.9
+Simeon Rice,Action|Horror|Thriller,Ward G. Smith,5.5
+Brad Anderson,Horror|Mystery,Paul Guilfoyle,6.5
+Jeff Garlin,Comedy|Romance,Jessy Schram,6.2
+Qasim Basir,Drama|Family,Dorian Missick,6.7
+Adam Green,Comedy|Horror,Joel David Moore,5.7
+Charles Chaplin,Comedy|Drama|Family,Paulette Goddard,8.6
+Pete Jones,Drama,Brian Dennehy,6.5
+Bruce Campbell,Comedy|Fantasy,Ted Raimi,6.3
+Mark Brown,Comedy|Drama,Vivica A. Fox,4.3
+Adam Carolla,Comedy,Jay Mohr,6.1
+Ira Sachs,Drama|Music|Romance,Rip Torn,6
+John Sayles,Drama|War,Brian Lee Franklin,5.8
+Bruce McDonald,Fantasy|Horror,Stephen McHattie,6.7
+James Mottern,Drama,Jimmy Bennett,6.7
+Jaime Zevallos,Comedy|Drama|Romance,Angela Sarafyan,7.6
+Rob Zombie,Drama|Fantasy|Horror|Thriller,Sid Haig,5.1
+Gerard Johnstone,Comedy|Horror|Mystery,Morgana O'Reilly,6.8
+Robert Greenwald,Documentary,Lee Scott,6.8
+David Ray,Drama|Fantasy|Romance,Nicole Muñoz,6.8
+Dave Rodriguez,Comedy|Drama,Chazz Palminteri,6.3
+Nae Caranfil,Comedy|Drama,Monica Barladeanu,7.1
+David Winning,Sci-Fi,Ashanti,2.8
+Frank Lotito,Comedy|Drama|Family,Brighton Sharbino,8.2
+Timothy Woodward Jr.,Action|Crime|Thriller,Katrina Law,3.1
+Christopher McQuarrie,Action|Crime|Mystery|Thriller,Tom Cruise,7
+Tara Subkoff,Drama|Horror|Mystery|Thriller,Timothy Hutton,3.3
+Russell Friedenberg,Action|Horror|Thriller,Rudy Youngblood,3.6
+William Cottrell,Animation|Family|Fantasy|Musical,Adriana Caselotti,7.7
+Lucrecia Martel,Drama,Mía Maestro,6.7
+Edward Dmytryk,Western,Brigitte Bardot,5.5
+Zak Penn,Adventure|Comedy|Horror,Zak Penn,6.6
+Alex Ranarivelo,Drama,Lea Thompson,4.8
+Jon Knautz,Horror|Thriller,Camren Bicondova,5.5
+Mathieu Amalric,Crime|Romance|Thriller,Mathieu Amalric,6.3
+David Worth,Horror|Thriller,Jessica Szohr,6.9
+Leslie H. Martinson,Adventure|Comedy|Family,Burgess Meredith,6.5
+Guy Ritchie,Comedy|Crime,Jason Statham,8.2
+Robert M. Young,Western,Barry Corbin,7.1
+,Action|Crime|Drama|Mystery,Karl Malden,7.3
+Thomas Vinterberg,Drama,Ulrich Thomsen,8.1
+Steve Buscemi,Comedy|Drama,Steve Buscemi,7.2
+Ham Tran,Drama,Long Nguyen,7.4
+Rich Cowan,Drama,Eric Dane,6.5
+Boris Rodriguez,Comedy|Horror,Stephen McHattie,5.7
+Harold Becker,Action|Crime|Drama|Thriller,Bruce Willis,6.1
+,Drama|Sci-Fi,James Morrison,7.7
+Sadyk Sher-Niyaz,Action|Biography|Drama|History,Elina Abai Kyzy,8.7
+Paul Donovan,Action|Sci-Fi,Maury Chaykin,4.3
+Jonathan Kesselman,Comedy,Judy Greer,6.2
+Arjun Sablok,Comedy|Musical|Romance,Abhishek Bachchan,3.3
+Craig Moss,Comedy,Noureen DeWulf,2.7
+Tyler Oliver,Horror|Romance|Thriller,Bella Thorne,5.2
+Alfred Hitchcock,Drama|Film-Noir|Mystery|Thriller,Laurence Olivier,8.2
+Steve Miner,Horror|Mystery|Thriller,Betsy Palmer,6.1
+Billy Wilder,Drama|Film-Noir,Ray Milland,8
+Douglas Cheek,Horror|Sci-Fi,Daniel Stern,5.5
+Youssef Delara,Drama|Music,Noel Gugliemi,5.7
+Deryck Broom,Animation,Vic Mignogna,3.7
+Henry Hathaway,Crime|Film-Noir|Thriller,Joseph Cotten,7.1
+John Ford,Drama|Family,Roddy McDowall,7.8
+,Drama,Mary Lynn Rajskub,7.3
+Spike Lee,Comedy|Romance|Thriller,Rami Malek,4.1
+Steven Soderbergh,Drama,Peter Gallagher,7.2
+James Wan,Horror|Mystery|Thriller,Michael Emerson,7.7
+Jay Chandrasekhar,Comedy|Crime|Mystery,Geoffrey Arend,7.1
+Giovanni Zelko,Action|Romance|Thriller,Zuhair Haddad,7.6
+Claudia Sainte-Luce,Comedy|Drama,Ximena Ayala,7
+Scott Derrickson,Drama|Sci-Fi|Thriller,Keanu Reeves,5.5
+Mira Nair,Comedy|Drama|Romance,Naseeruddin Shah,7.4
+Kenneth Lonergan,Drama,Matthew Broderick,7.7
+Alfred Hitchcock,Comedy|Mystery|Romance,Jerry Mathers,7.2
+Paul McGuigan,Crime|Drama|Mystery|Thriller,Bruce Willis,7.8
+Jamie Babbit,Comedy|Drama,Natasha Lyonne,6.6
+David Boyd,Drama|Sport,Vivica A. Fox,6
+Quentin Tarantino,Crime|Drama|Thriller,Quentin Tarantino,8.4
+Walter Lang,Drama|Family|Fantasy,Spring Byington,6.5
+Sergio Leone,Western,Clint Eastwood,8.9
+Anna Muylaert,Comedy|Drama,Alex Huszar,7.9
+Steve Taylor,Comedy|Drama,Jason Marsden,6
+Kurt Voss,Comedy|Music,Lemmy,6.1
+Léa Pool,Documentary,,7.4
+James David Pasternak,Comedy|Documentary,Robin Williams,6.2
+Laurent Bouhnik,Drama,Déborah Révy,5.6
+Tom Sanchez,Comedy|Drama,Nataniel Sánchez,7.2
+David Caffrey,Adventure|Comedy|Drama,Marley Shelton,6.1
+Adam Jay Epstein,Comedy,Rich Ceraulo,3.8
+Michael Curtiz,Action|Adventure|Romance|War,Errol Flynn,7.1
+Justin Thomas Ostensen,Thriller,Michael Berryman,4.5
+Brenton Spencer,Action|Horror|Mystery|Thriller,Christie Burke,3.8
+Rob Bowman,Adventure|Comedy|Sport,Alanna Ubach,6.2
+Ossie Davis,Action|Comedy,Redd Foxx,6.6
+Jay Alaimo,Horror,William McNamara,4.6
+Dylan Bank,Horror,Seregon O'Dassey,4.2
+Rob McKittrick,Comedy,Ryan Reynolds,6.8
+Shane Meadows,Crime|Drama|Thriller,Paddy Considine,7.7
+,Drama|Horror|Thriller,Richard Cawthorne,7.1
+Jeff Burr,Action|Drama|Horror|Thriller,Terry Kiser,5.9
+Harry Gantz,Documentary|Drama,,4.7
+Guy Maddin,Comedy|Horror|Musical,Sarah Murphy-Dyson,7
+Regardt van den Bergh,Drama,Sean Cameron Michael,6.9
+Panos Cosmatos,Sci-Fi|Thriller,Chris Gauthier,6.1
+Gareth Evans,Action|Crime|Thriller,Iko Uwais,7.6
+Matthew R. Anderson,Action|Horror|Sci-Fi,Johnny Pacar,3
+Joe Marino,Horror,Piero Maggiò,2.6
+Michael Curtiz,Drama|Romance|War,Humphrey Bogart,8.6
+Joel Anderson,Drama|Horror|Mystery|Thriller,Talia Zucker,6.1
+Shimit Amin,Comedy|Drama,Ranbir Kapoor,7.5
+Douglas Trumbull,Drama|Sci-Fi,Bruce Dern,6.7
+John G. Avildsen,Drama|Sport,Sylvester Stallone,8.1
+Mona Fastvold,Drama,Christopher Abbott,4.9
+John Carpenter,Fantasy|Horror,Jamie Lee Curtis,6.8
+Tony Richardson,Adventure|Comedy|History,Albert Finney,6.8
+Levan Gabriadze,Horror|Mystery|Thriller,Shelley Hennig,5.7
+Martin Scorsese,Crime|Drama,Robert De Niro,8.3
+Joe Dante,Horror,Patrick Macnee,6.6
+Terence Young,Action|Adventure|Thriller,Ursula Andress,7.3
+Bradley Parker,Horror|Mystery|Sci-Fi|Thriller,Jesse McCartney,5
+Clive Barker,Fantasy|Horror,Andrew Robinson,7
+Harold Cronk,Drama,Benjamin A. Onyango,3.4
+Jeff Wadlow,Drama|Horror|Mystery|Thriller,Julian Morris,5.9
+Takao Okawara,Action|Adventure|Drama|Sci-Fi|Thriller,Hiroshi Abe,6
+Derek Cianfrance,Drama|Romance,Ryan Gosling,7.4
+Duncan Tucker,Adventure|Comedy|Drama,Kevin Zegers,7.4
+William Brent Bell,Horror,Fernanda Andrade,4.2
+Russ Meyer,Comedy|Drama|Music,Charles Napier,6.2
+Robert D. Webb,Drama|Romance|Western,James Drury,6.2
+Davis Guggenheim,Documentary,Billy West,7.5
+Allan Dwan,Action|Drama|Romance|War,James Brown,7.2
+Martin Scorsese,Biography|Documentary|Music,Mick Jagger,7.2
+Eli Roth,Adventure|Horror,Daryl Sabara,5.4
+Andrew Steggall,Drama|Family|Romance,Juliet Stevenson,7
+Ben Lewin,Biography|Comedy|Drama|Romance,W. Earl Brown,7.2
+Robert Kenner,Documentary,Michael Pollan,7.9
+Andrew Erwin,Drama,Rachel Hendrix,6.8
+Brad Anderson,Comedy|Drama|Romance,Philip Seymour Hoffman,6.7
+Jason Reitman,Comedy|Drama|Romance,J.K. Simmons,7.5
+Craig Johnson,Comedy|Drama,Ty Burrell,6.8
+Sean Durkin,Drama|Mystery|Thriller,Christopher Abbott,6.9
+Gillian Robespierre,Comedy|Drama,Gaby Hoffmann,6.8
+Courtney Hunt,Crime|Drama,Charlie McDermott,7.2
+Morgan Neville,Documentary|Music,Sheryl Crow,7.4
+James Toback,Comedy|Drama,Robert Downey Jr.,5.6
+Nicole Holofcener,Comedy|Drama|Romance,Kevin Corrigan,6.8
+Peter Cattaneo,Comedy|Drama|Music,Tom Wilkinson,7.2
+Chris Paine,Documentary,Ed Begley Jr.,7.7
+Greg Berlanti,Comedy|Drama|Romance|Sport,Justin Theroux,7
+Don Coscarelli,Comedy|Fantasy|Mystery,Daniel Roebuck,7.2
+Rob Letterman,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,6.4
+Marc Levin,Drama,Sonja Sohn,7.2
+Richard Dutcher,Crime|Drama|Mystery,Wilford Brimley,7.2
+Khalid Mohamed,Drama|Romance,Karisma Kapoor,6.2
+Mel Brooks,Comedy,Madeline Kahn,6.9
+Trey Parker,Comedy|Sci-Fi,Trey Parker,6.2
+David Gordon Green,Drama|Romance,Zooey Deschanel,6.9
+Finn Taylor,Comedy|Drama,David Arquette,7
+Karen Moncrieff,Drama,Frances Fisher,6.7
+José Luis Valenzuela,Comedy|Romance,Cheech Marin,3.6
+Gia Coppola,Drama,James Franco,6.3
+Scandar Copti,Crime|Drama,Shahir Kabaha,7.4
+Goran Dukic,Comedy|Drama|Fantasy|Romance,Leslie Bibb,7.4
+Mike Cahill,Drama|Romance|Sci-Fi,Steven Yeun,7.3
+Efram Potelle,Comedy|Drama|Romance,Shiri Appleby,6.1
+Peter Jackson,Drama|Fantasy|Thriller,Michael Imperioli,6.7
+Joshua Oppenheimer,Biography|Crime|Documentary|History,Anwar Congo,8.2
+Alex Gibney,Crime|Documentary|War,Alex Gibney,7.7
+Paul Crowder,Documentary|Sport,Pelé,7.3
+Rohit Jagessar,Drama,Kumar Gaurav,7.4
+Griffin Dunne,Comedy|Drama,Mira Sorvino,5.7
+Anthony Powell,Adventure|Biography|Documentary|Drama,Josh Swanson,7.6
+Kief Davidson,Documentary,G.W. Krauss,6.8
+Johnny Remo,Action|Drama,Matthew Ziff,5.6
+Vivek Agnihotri,Thriller,Emraan Hashmi,4.8
+Ti West,Horror,Lena Dunham,6.4
+Nick Tomnay,Comedy|Crime|Thriller,David Hyde Pierce,6.8
+John Hamburg,Comedy|Crime,Harvey Fierstein,6.1
+Nickolas Perry,Crime|Drama|Romance,Patrick Renna,5.2
+Dan Zukovic,Comedy|Drama,Yul Vazquez,6.9
+Craig Mazin,Action|Comedy|Fantasy|Sci-Fi,Judy Greer,6
+Becky Smith,Comedy|Romance,Will Rothhaar,6.3
+Eric Nicholas,Crime|Drama|Thriller,Jordana Spiro,6.1
+Benjamin Dickinson,Drama|Sci-Fi,Nora Zehetner,5.5
+Hal Haberman,Comedy|Drama|Sci-Fi,Michael Rapaport,6.9
+Darren Stein,Comedy|Drama,Frances Bay,5.6
+A. Raven Cruz,Action|Adventure|Comedy|Fantasy|Sci-Fi,Scott Levy,1.9
+Brian Trenchard-Smith,Action|Drama,David Keith,4.1
+Frank Whaley,Comedy|Drama,Lynn Cohen,5.4
+Amat Escalante,Crime|Drama|Romance,Kenny Johnston,6.8
+Wajahat Rauf,Comedy|Family,Rasheed Naz,7
+Katherine Brooks,Drama|Romance,Ilene Graff,6.7
+David Cross,Comedy|Drama,Jason Ritter,5.8
+Randall Rubin,Crime|Drama|Thriller,Nicole Randall Johnson,6.2
+Robert Bennett,Comedy,Randy Wayne,2.8
+Guy Hamilton,Drama,Oliver Reed,7.3
+Mary Pat Kelly,Drama,Aidan Quinn,5.8
+Lori Petty,Drama,Jennifer Lawrence,6.5
+Charlie Levi,Drama,Joe Mantegna,6.1
+Kevin Hamedani,Comedy|Horror|Sci-Fi,Russell Hodgkinson,5.1
+David DeCoteau,Horror,Maureen McCormick,2.2
+Mikel Rueda,Drama|Romance,Álex Angulo,7.2
+Stefan C. Schaefer,Comedy|Drama|Romance,Nicole Beharie,5.7
+Michael Taliferro,Comedy|Music,Wesley Jonathan,3.4
+David DeCoteau,Western,William McNamara,3.8
+Katie Aselton,Horror|Thriller,Katie Aselton,4.7
+Robert Heath,Horror|Mystery,David Oakes,5.6
+D. Stevens,Drama|Thriller,Magi Avila,3.9
+Jeffrey St. Jules,Drama|Musical|Sci-Fi,Boyd Banks,5.4
+Robert Hall,Horror,Angelina Armani,5.2
+K. King,Action|Comedy|Horror,Jason K. Wixom,3.5
+Jonathan Meyers,Drama,Justin Baldoni,5.3
+Danny Boyle,Crime|Drama|Mystery|Thriller,Rosario Dawson,7
+Ralph Nelson,Drama|Romance|Sci-Fi,Cliff Robertson,7.1
+Blair Erickson,Horror|Thriller,Monique Candelaria,5.5
+,Comedy,Eric Lloyd,5.9
+Allison Burnett,Drama,Kimberly Williams-Paisley,6
+Richard Schenkman,Comedy|Romance,Vanessa Williams,4.8
+Sanjay Rawal,Documentary|News,Alma Martinez,7.1
+Elia Kazan,Crime|Drama|Romance,Marlon Brando,8.2
+Kat Coiro,Comedy,Justin Kirk,5.7
+Cristian Mungiu,Drama,Anamaria Marinca,7.9
+Brian Dorton,Horror,Javier Botet,7.3
+David Slade,Crime|Drama|Thriller,Odessa Rae,7.1
+Jamie Babbit,Drama|Thriller,Katy Mixon,6.4
+Maryam Keshavarz,Drama,Sarah Kazemy,5.9
+Ryan Coogler,Biography|Drama|Romance,Ahna O'Reilly,7.5
+Ramaa Mosley,Comedy|Fantasy|Thriller,Jack McBrayer,6.4
+James Algar,Animation|Drama|Family,Sam Edwards,7.4
+Charles Herman-Wurmfeld,Comedy|Romance|Sport,John Enos III,7.3
+Ric Roman Waugh,Action|Drama|Thriller,Dwayne Johnson,6.5
+C. Jay Cox,Comedy|Drama|Romance,Joseph Gordon-Levitt,7.2
+Mariette Monpierre,Drama,Stana Roumillac,6.7
+Tommy Oliver,Drama,Bokeem Woodbine,7.1
+Jamie Travis,Comedy,James Wolk,6
+Lee Toland Krieger,Comedy|Drama|Romance,Ari Graynor,6.7
+Rich Christiano,Drama|Fantasy|Sci-Fi,Gavin MacLeod,5.6
+Paul Andrew Williams,Crime|Drama|Thriller,Lorraine Stanley,7
+Nick Love,Action|Comedy|Drama|Sci-Fi,Eddie Griffin,4.9
+Natalie Bible',Mystery|Thriller,Tommy O'Reilly,3.2
+Asghar Farhadi,Drama|Mystery,Shahab Hosseini,8.4
+Justin Molotnikov,Thriller,Jo Hartley,6.9
+Todd Solondz,Comedy|Drama,Heather Matarazzo,7.5
+Victor Nunez,Drama|Romance,Allison Dean,7.2
+Peter Sollett,Drama|Romance,Victor Rasuk,7.2
+Georg Wilhelm Pabst,Crime|Drama|Romance,Louise Brooks,8
+Daniel Davila,Drama,Martin Landau,7.4
+Jorge Gaggero,Drama,Norma Aleandro,7.2
+Rod Lurie,Drama|Thriller,Kevin Pollak,6.5
+Michael Burke,Crime|Drama|Romance,Zachary Knighton,7.2
+Catherine Jelski,Drama,Leslie Bibb,4.2
+Shane Dawson,Comedy,Shane Dawson,5.1
+Tommy Wirkola,Comedy|Horror,Bjørn Sundquist,6.4
+Ryan Little,Action|Adventure|Drama|War,Corbin Allred,6.8
+Clark Baker,Horror|Sci-Fi|Short|Thriller,Taylor Pigeon,6.2
+George Lucas,Comedy|Drama|Music,Harrison Ford,7.5
+Robert Greenwald,Documentary|War,Scott Helvenston,7.7
+Matt Maiellaro,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,Tina Fey,6.9
+Colin Trevorrow,Comedy|Drama|Romance,Mary Lynn Rajskub,7
+Leslie Small,Comedy|Documentary,Isaac C. Singleton Jr.,7.5
+Ben Wheatley,Crime|Horror|Thriller,MyAnna Buring,6.3
+Ti West,Horror,Lena Dunham,5.5
+David S. Goyer,Drama|Fantasy|Horror|Mystery|Thriller,Gary Oldman,4.8
+Bernardo Bertolucci,Drama,Jean-Louis Trintignant,8.1
+Neil Burger,Drama,Raymond J. Barry,6.6
+Oliver Blackburn,Crime|Drama|Horror|Thriller,Julian Morris,5.2
+Jonathan Levine,Horror,Luke Grimes,5.6
+Christopher Hutson,Horror,Dichen Lachman,3.1
+Fred Zinnemann,Thriller|Western,Gary Cooper,8.1
+Steve James,Documentary|Drama|Sport,William Gates,8.3
+David LaChapelle,Documentary|Music,Kevin Scott Richardson,7.1
+Joseph Kosinski,Action|Adventure|Fantasy|Sci-Fi,Peter Dinklage,8.1
+Michael Cuesta,Crime|Drama,Adam LeFevre,7.2
+Caryn Waechter,Drama|Mystery|Thriller,Laura Fraser,6.3
+Emily Dell,Drama|Music|Romance,Aimee Garcia,4
+Peter Jackson,Action|Adventure|Drama|Romance,Naomi Watts,7.2
+Jaume Collet-Serra,Horror,Robert Ri'chard,5.3
+Ryan Fleck,Drama,Ryan Gosling,7.2
+Jennifer Wynne Farmer,Drama,Irene Bedard,6.5
+Christopher Scott Cherot,Comedy,Hill Harper,6.5
+H.M. Coakley,Crime|Drama|Thriller,Mehcad Brooks,4.9
+Randy Moore,Fantasy|Horror,Trey Loney,5.2
+Chris Atkins,Documentary,Richard Curtis,7.4
+Bill Benenson,Documentary,Alfre Woodard,7.4
+Ryan Smith,Fantasy|Horror|Mystery|Thriller,Sandra Ellis Lafferty,5.4
+Travis Romero,Drama|Thriller,Matthew Ziff,3.9
+Anna Mastro,Comedy|Drama,Leven Rambin,5.3
+Mark Sandrich,Comedy|Musical|Romance,Ginger Rogers,7.8
+Daniel Myrick,Horror,Heather Donahue,6.4
+Michael Wadleigh,Documentary|History|Music,Joe Cocker,8.1
+John Landis,Comedy,David Zucker,6.5
+Jon Gunn,Action|Crime|Drama,Stacy Keach,5.6
+Gene Teigland,Mystery|Thriller,Kendyl Joi,5.6
+Scott Ziehl,Drama,William Smith,6.6
+Richard Montoya,Crime|Drama,Nicholas Gonzalez,6.3
+Johanna Schwartz,Documentary,Aliou Touré,7.7
+William Gazecki,Documentary,Karen Alexander,7
+Lance McDaniel,Action|Drama|Thriller,Russell Wong,8
+Thomas Lilti,Comedy|Drama,François Cluzet,7.2
+Michael Walker,Thriller,Paula Garcés,4.5
+Richard Lester,Comedy|Musical,Paul McCartney,7.7
+U. Roberto Romano,Documentary,,7.2
+Amy Holden Jones,Drama|Romance,Jamie Lee Curtis,6.1
+Blaz Zavrsnik,Comedy,Dario Nozic Serini,6.4
+Alex Kendrick,Drama|Romance,Kirk Cameron,6.5
+Pan Nalin,Biography|Documentary|Drama,Bhole Baba,7
+Joe Camp,Adventure|Family|Romance,Frances Bavier,6.1
+Chris Kentis,Adventure|Biography|Drama|Horror|Thriller,Blanchard Ryan,5.7
+Matt Walsh,Comedy,Joe Lo Truglio,5.4
+John 'Bud' Cardos,Horror|Sci-Fi,Woody Strode,5.9
+Marilyn Agrelo,Documentary|Family|Music,Heather Berman,7.5
+Tom McCarthy,Comedy|Drama,Peter Dinklage,7.7
+Brian Baugh,Drama,Randy Wayne,7.1
+Patrick Creadon,Documentary,Ken Burns,7.4
+Barry W. Blaustein,Biography|Documentary|Sport,Terry Funk,7.6
+Kurt Hale,Comedy|Drama|Romance,Kirby Heyborne,6.4
+Siddiq Barmak,Drama,Marina Golbahari,7.4
+Joseph Dorman,Documentary,Rachel Dratch,6.8
+Greg Harrison,Drama|Music,Rachel True,6.5
+Kurt Hale,Comedy|Crime|Family,Kirby Heyborne,6
+Michael Polish,Drama,Sasha Alexander,7.3
+Jacob Aaron Estes,Crime|Drama,Rory Culkin,7.3
+Morgan J. Freeman,Crime|Drama|Romance,Edie Falco,6.5
+Eric Schaeffer,Comedy|Romance,Peter Dinklage,6
+Neema Barnette,Crime|Drama|Thriller,Monica Calhoun,5.3
+Steve Buscemi,Comedy|Drama,Kevin Corrigan,6.6
+Joe Swanberg,Comedy|Drama|Romance,Olivia Wilde,6.1
+Molly Bernstein,Documentary,David Mamet,7.1
+Akira Kurosawa,Action|Adventure|Drama,Takashi Shimura,8.7
+Marius A. Markevicius,Documentary|Sport,Tommy Sheppard,8.4
+Tom DiCillo,Comedy|Music|Romance,Brad Pitt,5.8
+Justin Lin,Comedy,Monique Gabriela Curnen,6.2
+Quentin Dupieux,Comedy|Fantasy|Horror,Haley Ramm,5.8
+Tim Johnson,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Jim Parsons,6.7
+C. Jay Cox,Comedy|Romance,Tori Spelling,5.7
+Alex Smith,Drama|Sport,Ryan Gosling,6.1
+Gareth Edwards,Drama|Sci-Fi|Thriller,Scoot McNairy,6.4
+Jonathan Parker,Drama,Keith Carradine,5
+Sol Tryon,Comedy,Jim Gaffigan,6.5
+Alex Craig Mann,Comedy|Horror,Justin Chon,4.6
+Hao Ning,Comedy|Crime,Bo Huang,7.7
+Stephen Kijak,Biography|Documentary|Music,Brian Eno,7.3
+Marc Forster,Drama,Radha Mitchell,6.6
+Andrew Niccol,Drama|Thriller,Bruce Greenwood,6.4
+Daston Kalili,Thriller,Daston Kalili,5.8
+William Gazecki,Documentary,Carol Channing,7.2
+Ol Parker,Drama|Romance,Jeremy Irvine,7.2
+Michael Hoffman Jr.,Comedy|Horror,Vincent Chimato,3.5
+Patrick Gilles,History,Emma Caulfield,7.5
+Georgia Hilton,Action|Mystery|Thriller,Mike Beckingham,2.2
+Tamra Davis,Comedy|Drama,Britney Spears,3.3
+Jack Heller,Mystery|Thriller,Shaun Sipos,6.6
+Fernando Baez Mella,Crime|Drama,Manny Perez,6.9
+Warren Sheppard,Action|Romance|Sport,Jennifer Hale,4
+Darren Lynn Bousman,Horror|Musical,Paul Sorvino,7.4
+Justin Paul Miller,Comedy|Mystery|Thriller,Mary Kate Wiles,8.3
+Joel Paul Reisig,Family,Carrie Bradstreet,5.7
+Catherine Gund,Action|Biography|Documentary|Sport,Elizabeth Streb,6.8
+Luke Dye,Family,Mike Stanley,5.2
+Sam Raimi,Adventure|Family|Fantasy,Tim Holmes,6.4
+Michael Herz,Action|Comedy|Horror|Sci-Fi,Patrick Kilpatrick,6.2
+Matty Rich,Crime|Drama,Lawrence Gilliard Jr.,5.9
+Paul Greengrass,Drama|History|War,James Nesbitt,7.7
+Alec Asten,Action,Luis Sanchez,4.3
+Hans Canosa,Comedy|Drama|Romance,Olivia Wilde,7.1
+Lloyd Kaufman,Comedy|Horror|Musical,John Karyus,6.2
+Matthew Watts,Comedy|Romance,Jennifer Lafleur,6.8
+Lloyd Bacon,Comedy|Musical|Romance,Ginger Rogers,7.7
+Joe Kenemore,Documentary,Bob Proctor,8.2
+Whit Stillman,Comedy|Drama|Romance,Chris Eigeman,7.5
+Kay Pollak,Comedy|Drama|Music|Romance,Michael Nyqvist,7.6
+Eric England,Drama|Horror|Mystery|Thriller,Jack E. Curenton,4.1
+Jared Hess,Comedy,Jon Heder,6.9
+Jeremy Saulnier,Crime|Drama|Thriller,Devin Ratray,7.1
+Oren Peli,Horror,Micah Sloat,6.3
+Stacy Peralta,Documentary|Sport,Tony Alva,7.7
+Terry Gilliam,Adventure|Comedy|Fantasy,Eric Idle,8.3
+Richard Glatzer,Drama,Emily Rios,7.1
+Sue Corcoran,Comedy|Fantasy|Horror|Musical,Tony Doupe,4.7
+,Drama|Fantasy|Sci-Fi|Thriller,Sendhil Ramamurthy,7.7
+Jonathan Caouette,Biography|Documentary,Greg Ayres,7.2
+Ray Griggs,Documentary,Bill Farmer,5.1
+Matt Jackson,Comedy|Horror,Kane Hodder,5.4
+Lucio Fulci,Horror,Catriona MacColl,6.9
+,Animation|Comedy|Drama,Brendon Small,8.2
+Tom Vaughan,Comedy|Romance,Treat Williams,6.1
+Paul Fox,Horror|Thriller,Dov Tiefenbach,6.1
+Stephen Frears,Comedy|Drama|Romance,Saeed Jaffrey,6.9
+Ari Kirschenbaum,Drama|Horror|Mystery|Thriller,R. Brandon Johnson,5.8
+Cassandra Nicolaou,Drama|Thriller,Katharine Isabelle,6
+Ingmar Bergman,Drama,Liv Ullmann,8.2
+D.W. Griffith,Drama|History|War,Lillian Gish,8
+Roger Nygard,Documentary,Walter Koenig,7
+Harry Beaumont,Musical|Romance,Anita Page,6.3
+Sam Raimi,Fantasy|Horror,Ted Raimi,7.6
+Franck Khalfoun,Horror|Thriller,America Olivo,6.1
+Mor Loushy,Documentary|History,Amos Oz,7.2
+Henry Alex Rubin,Documentary|Sport,Mark Zupan,7.8
+Sam Firstenberg,Action|Drama,Michael Dudikoff,4.7
+Doug Block,Documentary,Carol Block,7.5
+,Action|Adventure|Drama|Sci-Fi,Billy Burke,6.7
+Chad Kapper,Family|Sci-Fi,Tom E. Nicholson,3.4
+John Carpenter,Horror|Thriller,Jamie Lee Curtis,7.9
+Sidney Lumet,Crime|Drama,Jack Warden,8.9
+Paul Fierlinger,Animation|Drama,Isabella Rossellini,6.9
+Frank Capra,Comedy|Romance,Claudette Colbert,8.2
+Yorgos Lanthimos,Drama|Thriller,Angeliki Papoulia,7.3
+Lauren Lazin,Biography|Documentary|Music,James Cagney,8
+Gavin O'Connor,Comedy|Drama,Kimberly J. Brown,6.7
+Gregory Widen,Action|Fantasy|Horror|Mystery|Thriller,Viggo Mortensen,6.6
+Cédric Klapisch,Comedy|Romance,Simon Abkarian,6.9
+Peter Hedges,Comedy|Drama,Oliver Platt,7.1
+Niall Johnson,Drama,Kevin Howarth,5.6
+Kelly Reichardt,Drama,Daniel London,6.7
+Kelly Reichardt,Drama,John Robinson,7.1
+Eric Mendelsohn,Drama,Embeth Davidtz,5.2
+Jean-Luc Godard,Crime|Drama|Romance,Jean-Paul Belmondo,7.7
+Florence Ayisi,Documentary,Vera Ngassa,7.5
+Pan Nalin,Documentary,,7.6
+Michael Roemer,Drama|Romance,Yaphet Kotto,8.1
+Jesse Peretz,Drama|Romance,Robert John Burke,5.5
+Eddie O'Flaherty,Drama|Sport,Don Wallace,6.6
+Babar Ahmed,Action|Thriller,Lalaine,3.2
+Julie Taymor,Drama|Fantasy|Musical|Romance,Jim Sturgess,7.4
+John D. Hancock,Drama|Music,Trish Basinger,6.6
+Paul Bartel,Action|Comedy|Sci-Fi|Sport,Sylvester Stallone,6.2
+Bruce Dellis,Thriller,Tatyana Ali,4.8
+Pece Dingo,Horror,Michael Des Barres,4.5
+Jerome Elston Scott,Comedy|Drama|Romance,Taran Killam,7.2
+Étienne Faure,Drama|Musical|Romance,Rumi Missabu,4.3
+Herb Freed,Horror|Mystery,Linnea Quigley,4.5
+Jack Perez,Comedy|Crime|Drama|Horror|Mystery|Thriller,Kevin Corrigan,6.4
+Craig Zobel,Biography|Crime|Drama|Thriller,Dreama Walker,6.4
+Kevin Smith,Comedy|Drama|Romance,Matt Damon,7.3
+Nicole Holofcener,Comedy|Drama|Romance,Aunjanue Ellis,6.9
+Ken Del Conte,Action|Adventure|Mystery|Romance|Thriller,Hector Echavarria,4.3
+Justin Lin,Crime|Drama|Romance,Parry Shen,7.2
+Maria Maggenti,Comedy|Drama|Romance,Nicole Ari Parker,6.5
+Miguel Arteta,Comedy|Drama,Lupe Ontiveros,6.6
+Piyush Dinker Pandya,Comedy|Drama|Romance,Purva Bedi,6.7
+Daniel Columbie,Action|Crime|Drama,Keri Maletto,4.3
+Vincenzo Natali,Mystery|Sci-Fi|Thriller,David Hewlett,7.3
+Emma-Kate Croghan,Comedy|Romance,Radha Mitchell,6.4
+Bill Plympton,Animation|Comedy|Drama|Fantasy|Sci-Fi,Charis Michelsen,7
+Greg Harrison,Drama|Mystery|Thriller,Amir Talai,5.5
+Drake Doremus,Drama|Romance,Jennifer Lawrence,6.7
+Al Franklin,Horror,Marshal Hilton,4.3
+Allison Anders,Comedy|Music,Ally Sheedy,6.1
+Michael Kang,Comedy|Drama,Samantha Futerman,6.8
+Paul Schrader,Drama|Thriller,Nolan Gerard Funk,3.9
+,Crime|Drama,Shirley Henderson,8.5
+Lori Silverbush,Drama,Judy Marte,6.9
+Jeff Nichols,Drama|Thriller,Michael Abbott Jr.,7.3
+Stuart Hazeldine,Mystery|Thriller,Colin Salmon,6.9
+Hilary Brougher,Sci-Fi,James Urbaniak,6.3
+Rachel Goldenberg,Drama|Musical,Dustin Fitzsimons,2.5
+Corbin Bernsen,Drama,Corbin Bernsen,5.7
+Jamin Winans,Action|Drama|Fantasy|Sci-Fi,Eme Ikwuakor,7
+Tom Seidman,Drama|Family,Florence Henderson,6.2
+Jason Naumann,Comedy|Short,Victoria Jackson,6.9
+Matt Cimber,Crime|Drama,Stacy Keach,4.5
+Sam Martin,Documentary,Sam Adams,7.8
+Andrew Hyatt,Horror|Thriller,Noah Segan,4.4
+Dan Curtis,Fantasy|Romance,Jennifer Jason Leigh,7.4
+Joel Paul Reisig,Family,Joshua Ray Bell,6.6
+Kristin Rizzo,Documentary,Esai Morales,8
+King Vidor,Drama|Romance|War,John Gilbert,8.3
+Ward Roberts,Comedy,Sid Haig,6.5
+Zoran Lisinac,Comedy|Music|Romance,Matthew Emerick,7.1
+Nicolas Winding Refn,Action|Biography|Crime|Drama,Tom Hardy,7.1
+James O'Brien,Adventure|Drama|Fantasy|Thriller|Western,Mark Fantasia,4
+Tom Putnam,Documentary,Brendan Doogie Milewski,7.5
+Jon Shear,Drama,Dan Futterman,7
+Al Silliman Jr.,Comedy|Drama,Christina Hart,4
+Eugène Lourié,Adventure|Horror|Sci-Fi,Kenneth Tobey,6.7
+Richard Fleischer,Adventure|Drama|Family|Fantasy|Sci-Fi,James Mason,7.2
+George Miller,Action|Adventure|Sci-Fi|Thriller,Hugh Keays-Byrne,7
+Doug Liman,Comedy|Drama,Jon Favreau,7.4
+Sergio Leone,Action|Drama|Western,Clint Eastwood,8
+Lowell Sherman,Comedy|Drama|History|Musical|Romance,Mae West,6.5
+Maurizio Benazzo,Documentary,The Dalai Lama,7.2
+David G. Evans,Drama,Michael Joiner,6.4
+Ava DuVernay,Drama,Omari Hardwick,6.5
+Tom Tykwer,Comedy|Drama|Romance,Devid Striesow,6.8
+Sherman Alexie,Drama|Music,William Joseph Elk III,6.9
+Justin Dillon,Documentary|History|Music,Matisyahu,7.5
+Steven Soderbergh,Crime|Drama|Thriller,Channing Tatum,7.1
+Stevan Mena,Crime|Horror|Mystery|Thriller,R. Brandon Johnson,5.1
+Adam Rifkin,Comedy|Drama,Marri Savinar,6.2
+Eric Valette,Horror|Sci-Fi|Thriller,Melanie Papalia,3.9
+Jay Duplass,Comedy|Drama|Horror|Romance,Greta Gerwig,6
+Livingston Oden,Comedy|Horror|Mystery|Thriller,Susan Chambers,6.8
+Chris Marker,Documentary,Marina Vlady,7.4
+Carl Theodor Dreyer,Drama|Fantasy,Hanne Aagesen,8.1
+Marianna Palka,Comedy|Drama|Romance,Bryce Dallas Howard,6.5
+Richard Schenkman,Drama|Romance|Sci-Fi,William Katt,8
+Ricki Stern,Crime|Documentary,Darryl Hunt,7.7
+Nadia Tass,Drama|Family,Mia Farrow,7.2
+James Kerwin,Drama|Music|Mystery|Romance|Sci-Fi,John Newton,5.4
+C. Fraser Press,Comedy|Drama|Music,Elaine Bromka,6.7
+Rania Attieh,Drama|Sci-Fi|Thriller,Paul Hickert,6.3
+Sharon Greytak,Drama,Sally Kirkland,8.1
+Majid Majidi,Drama|Family,Bahare Seddiqi,8.5
+Andrew Haigh,Drama|Romance,Tom Cullen,7.7
+Spike Lee,Comedy|Romance,S. Epatha Merkerson,6.5
+Cary Bell,Documentary,Abigail Evans,8.7
+Nicolae Constantin Tanase,Drama,Iulia Ciochina,6.5
+Mike Cahill,Drama|Romance|Sci-Fi,Robin Lord Taylor,7
+Jason Stone,Thriller,Topher Grace,5.8
+Melvin Van Peebles,Crime|Drama|Thriller,John Amos,5.5
+Ken Roht,Drama,Charla Cochran,7
+Gary Winick,Comedy|Drama|Romance,Bebe Neuwirth,6.3
+John Carney,Drama|Music|Romance,Glen Hansard,7.9
+Robinson Devor,Comedy,Marilyn Rising,7.3
+Michel Orion Scott,Documentary,Temple Grandin,7.4
+Pat Holden,Horror,Alan Brent,5.4
+Eric Bugbee,Action|Drama|Sport,Joel Moody,7.1
+Tobe Hooper,Horror|Thriller,Gunnar Hansen,7.5
+Bill Melendez,Animation|Comedy|Family,Peter Robbins,8.4
+Dena Seidel,Adventure|Documentary,Naderev Sano,7
+Deborah Anderson,Documentary,Lisa Ann,5.3
+Sara Newens,Documentary,Ariel Hsing,7.1
+Michael Moore,Documentary,Michael Moore,7.5
+Paul Schrader,Fantasy|Horror|Thriller,Ed Begley Jr.,6.1
+Sai Varadan,Drama,J.D. Williams,7.2
+Zal Batmanglij,Drama|Mystery|Sci-Fi|Thriller,Christopher Denham,6.7
+Amal Al-Agroobi,Documentary|Family,,8.2
+Andrew Berends,Documentary|War,,6.6
+Lynn Shelton,Comedy|Drama,Mark Duplass,6.7
+Valentine,Romance,Diane Sorrentino,5.1
+David Hewlett,Comedy,Christopher Judge,7
+David Hewlett,Comedy,Christopher Judge,7
+George A. Romero,Drama|Horror|Mystery,Judith O'Dea,8
+Jean-Luc Godard,Drama,Philippe Leroy,7.4
+Nate Parker,Biography|Drama,Jason Stuart,5.4
+Nathan Smith Jones,Comedy,Richard Moll,5.7
+Alex Kendrick,Drama|Sport,Alex Kendrick,6.7
+Travis Cluff,Horror|Thriller,Pfeifer Brown,4.2
+David Lynch,Fantasy|Horror|Sci-Fi,Hal Landon Jr.,7.4
+Harry F. Millarde,Crime|Drama,Stephen Carr,4.8
+Robert Townsend,Comedy,Robert Townsend,7
+Peter Chelsom,Comedy|Drama,Kieran Culkin,7.3
+Jamaa Fanaka,Crime|Drama|Sport,Leon Isaac Kennedy,5.8
+Larry Blamire,Comedy|Horror|Sci-Fi,Fay Masterson,7
+Stephen Langford,Family,Kevin P. Farley,3.2
+E.L. Katz,Comedy|Crime|Drama|Horror|Thriller,Brighton Sharbino,6.8
+Lisanne Pajot,Documentary,Jonathan Blow,7.7
