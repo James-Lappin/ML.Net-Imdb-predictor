@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Predictor.ML\Predictor.ML.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="csvhelper" Version="12.1.2" />
+  </ItemGroup>
+
 </Project>

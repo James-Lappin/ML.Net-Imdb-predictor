@@ -1,4 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using CsvHelper;
+using CsvHelper.Configuration;
 using Predictor.ML;
 using Predictor.ML.Ash;
 using Predictor.ML.Ash.New;
@@ -9,8 +15,8 @@ namespace Predictor_Console
     {
         static void Main(string[] args)
         {
-            new MoviePredictionsAshNew().BuildModel();
-
+             new MoviePredictionsAsh().BuildModel();
+            /* 
             while (true)
             {
                 Console.WriteLine("Enter a movie name or 'F' to finish.");
@@ -20,7 +26,7 @@ namespace Predictor_Console
                 {
                     break;
                 }
-            }
+            }*/
 
             Console.WriteLine("Finished.");
         }
