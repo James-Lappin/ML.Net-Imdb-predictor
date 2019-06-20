@@ -1,5 +1,7 @@
 ﻿using System;
 using Predictor.ML;
+using Predictor.ML.Ash;
+using Predictor.ML.Ash.New;
 
 namespace Predictor_Console
 {
@@ -7,7 +9,7 @@ namespace Predictor_Console
     {
         static void Main(string[] args)
         {
-            new MoviePredictions().BuildModel();
+            new MoviePredictionsAshNew().BuildModel();
 
             while (true)
             {
